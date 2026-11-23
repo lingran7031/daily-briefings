@@ -1,0 +1,1019 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>每日电脑硬件新闻</title>
+    <link>https://lingran7031.github.io/daily-briefings/</link>
+    <description>每天 8:30 的电脑硬件新闻简报：GPU、CPU、内存、SSD、主板等 PC 组件。</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 23 Nov 2026 07:11:57 +0000</lastBuildDate>
+    <atom:link href="https://lingran7031.github.io/daily-briefings/hardware.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>（分析师观点）Jim Handy 警告内存价格或崩盘</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-23-10</guid>
+      <pubDate>Mon, 23 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>（分析师观点）Jim Handy 警告内存价格或崩盘：分析师 Jim Handy 11 月 22 日警告，若 AI 支出放缓，三星与 SK 海力士或面临内存价格崩盘，与上周 TrendForce 的降温信号呼应；属分析师观点，非厂商数据。</p>]]></description>
+    </item>
+    <item>
+      <title>芯片股回调</title>
+      <link>http://lite.dailyadvent.com/detail/4ab93e98261113en_in?uid=656105886f474218ba8c1884ebd923a7en_in&amp;country=in&amp;language=en&amp;category=main&amp;page=1</link>
+      <guid isPermaLink="false">hardware-2026-11-23-09</guid>
+      <pubDate>Mon, 23 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>芯片股回调：AMD 跌约 11%，博通、英特尔跌约 6%：上周芯片股出现回调，AMD 跌约 11%，博通与英特尔各跌约 6%，回吐了此前因英伟达换帅轮动的部分涨幅；英伟达跌约 4%。来源：Daily Advent —</p><p>来源：</p><ul><li><a href="http://lite.dailyadvent.com/detail/4ab93e98261113en_in?uid=656105886f474218ba8c1884ebd923a7en_in&amp;country=in&amp;language=en&amp;category=main&amp;page=1">http://lite.dailyadvent.com/detail/4ab93e98261113en_in?uid=656105886f474218ba8c1884ebd923a7en_in&amp;country=in&amp;language=en&amp;category=main&amp;page=1</a></li></ul>]]></description>
+    </item>
+    <item>
+      <title>AMD XDNA 2 NPU 接入 Unsloth Desktop，支持 100 多个本地 AI 应用</title>
+      <link>https://www.guru3d.com/archive/202611</link>
+      <guid isPermaLink="false">hardware-2026-11-23-08</guid>
+      <pubDate>Mon, 23 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>AMD XDNA 2 NPU 接入 Unsloth Desktop，支持 100 多个本地 AI 应用：AMD 与 Unsloth 合作，让 Ryzen AI PC 的 XDNA 2 NPU 可在本地运行 100 多个 AI 智能体应用；还演示了 350 亿参数的 Qwen3.6 混合专家模型本地运行。来源：Guru3D —</p><p>来源：</p><ul><li><a href="https://www.guru3d.com/archive/202611">https://www.guru3d.com/archive/202611</a></li></ul>]]></description>
+    </item>
+    <item>
+      <title>AMD ROCm 10.2 把官方 GPU 计算支持扩展到更多 Ryzen APU</title>
+      <link>https://www.guru3d.com/archive/202611</link>
+      <guid isPermaLink="false">hardware-2026-11-23-07</guid>
+      <pubDate>Mon, 23 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>AMD ROCm 10.2 把官方 GPU 计算支持扩展到更多 Ryzen APU：11 月 20 日发布的 ROCm 10.2 新增对 18 款带 Radeon 核显的 Ryzen 处理器的官方计算支持，本地 AI 与 GPU 计算的可用范围扩大。来源：Guru3D —</p><p>来源：</p><ul><li><a href="https://www.guru3d.com/archive/202611">https://www.guru3d.com/archive/202611</a></li></ul>]]></description>
+    </item>
+    <item>
+      <title>微软预览 USB4 互联</title>
+      <link>https://www.guru3d.com/archive/202611</link>
+      <guid isPermaLink="false">hardware-2026-11-23-06</guid>
+      <pubDate>Mon, 23 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>微软预览 USB4 互联：多台 Windows PC 可共享内存与 GPU 资源：微软预览的 USB4 新功能可让 Windows PC 之间池化内存与 GPU 资源，面向多设备协作场景；具体上线时间未公布。来源：Guru3D —</p><p>来源：</p><ul><li><a href="https://www.guru3d.com/archive/202611">https://www.guru3d.com/archive/202611</a></li></ul>]]></description>
+    </item>
+    <item>
+      <title>群联预览带 NPU 与 64GB 内存的计算型 SSD</title>
+      <link>https://www.guru3d.com/archive/202611</link>
+      <guid isPermaLink="false">hardware-2026-11-23-05</guid>
+      <pubDate>Mon, 23 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>群联预览带 NPU 与 64GB 内存的计算型 SSD：群联展示了一款内置 NPU 和 64GB 内存的计算型 SSD，把 AI 推理算力做到存储设备里，面向本地 AI 与近数据计算；仍是预览阶段，未公布上市时间与价格。来源：Guru3D —</p><p>来源：</p><ul><li><a href="https://www.guru3d.com/archive/202611">https://www.guru3d.com/archive/202611</a></li></ul>]]></description>
+    </item>
+    <item>
+      <title>华硕 AM5 测试版 BIOS 让 DDR5 内存训练过程可见</title>
+      <link>https://www.guru3d.com/archive/202611</link>
+      <guid isPermaLink="false">hardware-2026-11-23-04</guid>
+      <pubDate>Mon, 23 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>华硕 AM5 测试版 BIOS 让 DDR5 内存训练过程可见：华硕为部分 AM5 主板发布基于 AGESA ComboAM5 PI 1.3.0.1f Patch A 的测试版 BIOS，两位数 Debug 灯在 DDR5 初始化时会以 00 至 09 循环显示进度，方便排查内存启动问题。来源：Guru3D —</p><p>来源：</p><ul><li><a href="https://www.guru3d.com/archive/202611">https://www.guru3d.com/archive/202611</a></li></ul>]]></description>
+    </item>
+    <item>
+      <title>SC26 余波</title>
+      <link>https://techblog.news/nvidia-and-amd-clash-over-ai-cpus-and-high-precision-supercomputing/</link>
+      <guid isPermaLink="false">hardware-2026-11-23-03</guid>
+      <pubDate>Mon, 23 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>SC26 余波：英伟达称 Vera CPU 靠软件优化最高可提速 39%，AMD 在 TOP500 占比超 40%：英伟达在 SC26 上表示，Vera CPU 通过针对性的软件优化最高可获得 39% 的性能提升；AMD 则在最新 TOP500 超算榜单中的占比超过 40%，较上期提升 14%，领衔系统为与美国能源部合作的 Lux 超算，下一代 Discovery 超算预计 2028 年上线。Rubin HPC（2028 年、5 万以上 CUDA 核心）与 AMD MI430X 已在 11 月 18 日简报推送。来源：Techblog News —</p><p>来源：</p><ul><li><a href="https://techblog.news/nvidia-and-amd-clash-over-ai-cpus-and-high-precision-supercomputing/">https://techblog.news/nvidia-and-amd-clash-over-ai-cpus-and-high-precision-supercomputing/</a></li></ul>]]></description>
+    </item>
+    <item>
+      <title>软银孙正义曾考虑约 1 万亿美元收购 SK 海力士，现已搁置</title>
+      <link>https://www.channelnewsasia.com/business/softbanks-son-explored-1-trillion-buyout-sk-hynix-information-reports-6571306</link>
+      <guid isPermaLink="false">hardware-2026-11-23-02</guid>
+      <pubDate>Mon, 23 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>软银孙正义曾考虑约 1 万亿美元收购 SK 海力士，现已搁置：The Information 11 月 20 日报道，孙正义曾向华尔街机构询过收购 SK 海力士的融资方案，收购价约 1 万亿美元（SK 海力士市值约 5,800 亿美元）；软银发言人称目前不再积极考虑，SK 海力士称不知情。韩国法律规定外资收购该公司须事先获批，业内认为交易难以成行。来源：CNA —</p><p>来源：</p><ul><li><a href="https://www.channelnewsasia.com/business/softbanks-son-explored-1-trillion-buyout-sk-hynix-information-reports-6571306">https://www.channelnewsasia.com/business/softbanks-son-explored-1-trillion-buyout-sk-hynix-information-reports-6571306</a></li></ul>]]></description>
+    </item>
+    <item>
+      <title>（泄露，未证实）Intel Nova Lake 桌面与移动版规格同时曝光</title>
+      <link>https://www.tweaktown.com/news/114820/28-core-intel-nova-lake-s-sample-hits-5-2ghz-on-linux-while-advantech-leaks-16-core-nova-lake-h-specs/index.html</link>
+      <guid isPermaLink="false">hardware-2026-11-23-01</guid>
+      <pubDate>Mon, 23 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>（泄露，未证实）Intel Nova Lake 桌面与移动版规格同时曝光：OpenBenchmarking 数据库出现 28 核 Nova Lake-S 桌面工程样品，频率 5.2GHz，但无可用跑分结果；研华 ASR-A505 单板机资料则泄露 16 核 Nova Lake-H 移动版，最高 4.8GHz、25W TDP，支持 DDR5-8000、最高 128GB 内存。两份资料的核心分配说法有出入，Intel 未确认任何规格与上市时间，传闻 2027 年发布。来源：TweakTown —</p><p>来源：</p><ul><li><a href="https://www.tweaktown.com/news/114820/28-core-intel-nova-lake-s-sample-hits-5-2ghz-on-linux-while-advantech-leaks-16-core-nova-lake-h-specs/index.html">https://www.tweaktown.com/news/114820/28-core-intel-nova-lake-s-sample-hits-5-2ghz-on-linux-while-advantech-leaks-16-core-nova-lake-h-specs/index.html</a></li></ul>]]></description>
+    </item>
+    <item>
+      <title>（传闻，未证实）Zen 6 推迟原因据称是改用台积电 N2X 工艺</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-22-03</guid>
+      <pubDate>Sun, 22 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>（传闻，未证实）Zen 6 推迟原因据称是改用台积电 N2X 工艺：Chiphell 论坛消息称，AMD 将 Zen 6 从原定的 2027 年 1 月 CES 发布推迟数月，原因是改用台积电性能更强的 N2X 工艺；AMD 未作回应。Zen 6 可能推迟到 Computex 2027 之后的消息已在 11 月 21 日简报推送，本条补充了传闻中的推迟原因。来源：TweakTown</p>]]></description>
+    </item>
+    <item>
+      <title>DDR5 与显卡现货价仍处高位</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-22-02</guid>
+      <pubDate>Sun, 22 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>DDR5 与显卡现货价仍处高位：11 月 21 日渠道追踪显示，美国 RTX 5090 最低 6,199 美元（约 3.1 倍于 1,999 美元官方价），RTX 5080 为 1,949 美元（官方价 999 美元的近 2 倍），RTX 5070 为 859.99 美元；32GB DDR5-6000 套条零售约 480~555 美元，16GB DDR5 单条约 275~299 美元。16Gb DDR5 芯片合约价从 2025 年 10 月的 8.70 美元涨至 2026 年 9 月的约 48 美元（+452%）；十铨 CEO 称最紧张期持续到 2027 年二季度，供需平衡最早 2028 年下半年。以上为美国渠道价。来源：Quite Terrible / Tech Insider</p>]]></description>
+    </item>
+    <item>
+      <title>NAND 出现降温信号，TrendForce 首次预测合约价转跌</title>
+      <link>https://www.trendforce.com/presscenter/news/20261119-13314.html</link>
+      <guid isPermaLink="false">hardware-2026-11-22-01</guid>
+      <pubDate>Sun, 22 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>NAND 出现降温信号，TrendForce 首次预测合约价转跌：11 月 19 日，TrendForce 将 2026 年四季度 NAND 合约价涨幅预测从 +15~20% 下调至 +8~13%，并预计 2027 年一季度合约价下跌 0~5%、二季度起全品类进入下行周期，为本轮周期首次预测转跌；主因是中国云厂商削减企业级 SSD 订单、消费电子出货预期下修，现货价近期已跌超 20%。受此影响，闪迪 11 月 20 日股价跌 12.5% 至 82.5 美元。来源：TrendForce —</p><p>来源：</p><ul><li><a href="https://www.trendforce.com/presscenter/news/20261119-13314.html">https://www.trendforce.com/presscenter/news/20261119-13314.html</a></li></ul>]]></description>
+    </item>
+    <item>
+      <title>（传闻，11 月 18 日未推送补充）三星据称为 Meta 定制 HBM4E 内存</title>
+      <link>https://merhabyte.com/en/category/computers</link>
+      <guid isPermaLink="false">hardware-2026-11-21-10</guid>
+      <pubDate>Sat, 21 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>（传闻，11 月 18 日未推送补充）三星据称为 Meta 定制 HBM4E 内存：韩国媒体 11 月 18 日报道，三星可能正为 Meta 自研 AI 芯片开发定制 HBM4E，基础 die 或采用 2nm 工艺，消息尚未获双方证实。来源：Merhabyte —</p><p>来源：</p><ul><li><a href="https://merhabyte.com/en/category/computers">https://merhabyte.com/en/category/computers</a></li></ul>]]></description>
+    </item>
+    <item>
+      <title>NVIDIA 向基板厂商 Kinsus 投资逾 10 亿美元，扩充 AI 芯片封装基板产能</title>
+      <link>https://theworldofai.org/ai-ecosystem/technology-and-core-infrastructure/ca9cf8ba/</link>
+      <guid isPermaLink="false">hardware-2026-11-21-09</guid>
+      <pubDate>Sat, 21 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>NVIDIA 向基板厂商 Kinsus 投资逾 10 亿美元，扩充 AI 芯片封装基板产能：11 月 20 日消息，NVIDIA 投资超 10 亿美元支持台湾基板厂商欣兴电子（Kinsus）扩产，以缓解 AI 加速器封装基板供应紧张。来源：The World of AI —</p><p>来源：</p><ul><li><a href="https://theworldofai.org/ai-ecosystem/technology-and-core-infrastructure/ca9cf8ba/">https://theworldofai.org/ai-ecosystem/technology-and-core-infrastructure/ca9cf8ba/</a></li></ul>]]></description>
+    </item>
+    <item>
+      <title>PCB 供应商警告</title>
+      <link>https://www.guru3d.com/archive/202611</link>
+      <guid isPermaLink="false">hardware-2026-11-21-08</guid>
+      <pubDate>Sat, 21 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>PCB 供应商警告：AI 服务器需求正在收紧电路板与材料供应：全球电子协会（Global Electronics Association）11 月 20 日警告，AI 服务器硬件需求正在挤压印制电路板产能与相关材料供应，可能波及主板等产品的供货。来源：Guru3D —</p><p>来源：</p><ul><li><a href="https://www.guru3d.com/archive/202611">https://www.guru3d.com/archive/202611</a></li></ul>]]></description>
+    </item>
+    <item>
+      <title>美众议院披露</title>
+      <link>https://www.arabnews.com/world/us-approved-sale-of-nvidia-amd-chips-to-chinese-companies-ft-reports-3013076</link>
+      <guid isPermaLink="false">hardware-2026-11-21-07</guid>
+      <pubDate>Sat, 21 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>美众议院披露：美方曾批准近 88 万颗 H200/MI325X 输华许可，但均未发货：11 月 19 日公开的商务部文件显示，截至 2026 年 5 月 11 日，美方在 21 项许可中批准向中国企业出口 879,868 颗 NVIDIA H200 与 AMD MI325X（申请总量 344 万颗），其中腾讯 15 万颗、阿里 7.5 万颗、百度 4.3 万颗、比亚迪 4 千颗，且截至 5 月均标注“已批准、未发货”；NVIDIA 随后确认已停止向中国发运 H200。注意这是 5 月旧数据的最新披露，不是新的批准。来源：Arab News（金融时报报道）—</p><p>来源：</p><ul><li><a href="https://www.arabnews.com/world/us-approved-sale-of-nvidia-amd-chips-to-chinese-companies-ft-reports-3013076">https://www.arabnews.com/world/us-approved-sale-of-nvidia-amd-chips-to-chinese-companies-ft-reports-3013076</a></li></ul>]]></description>
+    </item>
+    <item>
+      <title>（传闻）AMD Zen 6 桌面 Ryzen 可能推迟到 2027 年台北电脑展之后</title>
+      <link>https://www.guru3d.com/archive/202611</link>
+      <guid isPermaLink="false">hardware-2026-11-21-06</guid>
+      <pubDate>Sat, 21 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>（传闻）AMD Zen 6 桌面 Ryzen 可能推迟到 2027 年台北电脑展之后：11 月 20 日 Guru3D 援引的一份报告称，代号 Olympic Ridge 的 Zen 6 桌面处理器可能要到 Computex 2027 之后才发布，未给出原定时间表或 AMD 的说法，配套芯片组情况也不明，尚未获官方证实。来源：Guru3D —</p><p>来源：</p><ul><li><a href="https://www.guru3d.com/archive/202611">https://www.guru3d.com/archive/202611</a></li></ul>]]></description>
+    </item>
+    <item>
+      <title>GPU-Z 2.72.0 发布，新增 RTX Spark、RTX 5070 与 RTX 4090 Ti 工程样品识别</title>
+      <link>https://www.igeekphone.com/gpu-z-2-72-0-released-adds-nvidia-rtx-spark-and-rtx-4090-ti-es-support-amd-gpu-hot-spot-monitoring/</link>
+      <guid isPermaLink="false">hardware-2026-11-21-05</guid>
+      <pubDate>Sat, 21 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>GPU-Z 2.72.0 发布，新增 RTX Spark、RTX 5070 与 RTX 4090 Ti 工程样品识别：TechPowerUp 11 月 20 日发布 GPU-Z 2.72.0，新增对 NVIDIA RTX Spark 平台、GB203 核心的 RTX 5070 及未发布的 RTX 4090 Ti 工程样品的识别，并为 R9 200/300、Fury、RX 400/500 等老款 AMD 显卡加入 Hot Spot 温度读取。来源：iGeekPhone —</p><p>来源：</p><ul><li><a href="https://www.igeekphone.com/gpu-z-2-72-0-released-adds-nvidia-rtx-spark-and-rtx-4090-ti-es-support-amd-gpu-hot-spot-monitoring/">https://www.igeekphone.com/gpu-z-2-72-0-released-adds-nvidia-rtx-spark-and-rtx-4090-ti-es-support-amd-gpu-hot-spot-monitoring/</a></li></ul>]]></description>
+    </item>
+    <item>
+      <title>黑五前 RTX 5070 出现罕见降价，Newegg 挂出 499.99 美元</title>
+      <link>https://attractmo.de/deals/msi-rtx-5070-price-drops-below-500-early-holiday-deal</link>
+      <guid isPermaLink="false">hardware-2026-11-21-04</guid>
+      <pubDate>Sat, 21 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>黑五前 RTX 5070 出现罕见降价，Newegg 挂出 499.99 美元：MSI Ventus RTX 5070 在 Newegg 降至 499.99 美元（原价 559.99 美元，叠加返现可到 479.99 美元），为近期少见的低于建议价销售；沃尔玛的 PNY RTX 5070 也降至 599 美元。均为美国渠道价，降价发生在业界传闻显卡可能因内存涨价而涨价的背景下。来源：AttractMode —</p><p>来源：</p><ul><li><a href="https://attractmo.de/deals/msi-rtx-5070-price-drops-below-500-early-holiday-deal">https://attractmo.de/deals/msi-rtx-5070-price-drops-below-500-early-holiday-deal</a></li></ul>]]></description>
+    </item>
+    <item>
+      <title>广发证券</title>
+      <link>https://www.tradingview.com/news/seekingalpha:5e05618b7094b:0-nvidia-amd-in-focus-as-gf-securities-says-talk-of-server-cpu-cuts-is-overstated/</link>
+      <guid isPermaLink="false">hardware-2026-11-21-03</guid>
+      <pubDate>Sat, 21 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>广发证券：服务器 CPU 削减订单传闻被夸大，Meta 转向 NVIDIA Grace/Vera：11 月 20 日的报告称，Meta 并未削减服务器 CPU 订单，而是把部分 x86 采购转向 NVIDIA Grace 与 Vera 服务器方案，同时加速部署通用服务器；微软订单未变。报告预计 AMD Venice 服务器 CPU 2026/2027 年出货 40 万/540 万颗，并看好 Intel Granite Rapids 爬坡。以上为券商供应链调研与预测，非厂商官方数据。来源：TradingView（Seeking Alpha）—</p><p>来源：</p><ul><li><a href="https://www.tradingview.com/news/seekingalpha:5e05618b7094b:0-nvidia-amd-in-focus-as-gf-securities-says-talk-of-server-cpu-cuts-is-overstated/">https://www.tradingview.com/news/seekingalpha:5e05618b7094b:0-nvidia-amd-in-focus-as-gf-securities-says-talk-of-server-cpu-cuts-is-overstated/</a></li></ul>]]></description>
+    </item>
+    <item>
+      <title>AMD 发布 Adrenalin 26.11.2 驱动，扩大修复 SSD 写入与游戏崩溃</title>
+      <link>https://www.guru3d.com/archive/202611</link>
+      <guid isPermaLink="false">hardware-2026-11-21-02</guid>
+      <pubDate>Sat, 21 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>AMD 发布 Adrenalin 26.11.2 驱动，扩大修复 SSD 写入与游戏崩溃：11 月 18 日更新的 26.11.2 在 26.11.1 基础上，把 SSD 过度写入修复扩展到更多老款 Radeon 显卡，并修复一批游戏崩溃问题。来源：Guru3D —</p><p>来源：</p><ul><li><a href="https://www.guru3d.com/archive/202611">https://www.guru3d.com/archive/202611</a></li></ul>]]></description>
+    </item>
+    <item>
+      <title>NVIDIA 发布 GeForce 621.35 热修复，修补驱动狂写 SSD 问题</title>
+      <link>https://videocardz.com/newz/nvidia-releases-geforce-621-35-hotfix-to-fix-excessive-ssd-writes</link>
+      <guid isPermaLink="false">hardware-2026-11-21-01</guid>
+      <pubDate>Sat, 21 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>NVIDIA 发布 GeForce 621.35 热修复，修补驱动狂写 SSD 问题：针对 621.14/621.24 驱动在后台向 nvlog.nvlgstg 文件持续写入、每小时最高可达 30GB 的问题，NVIDIA 于 11 月 20 日推出 621.35 热修复驱动，适用于 Win10/11。热修复为可选测试版，修复将并入后续 WHQL 正式版；AMD 此前也在 11 月 12 日的 Adrenalin 26.11.1 中修了类似问题。来源：VideoCardz —</p><p>来源：</p><ul><li><a href="https://videocardz.com/newz/nvidia-releases-geforce-621-35-hotfix-to-fix-excessive-ssd-writes">https://videocardz.com/newz/nvidia-releases-geforce-621-35-hotfix-to-fix-excessive-ssd-writes</a></li></ul>]]></description>
+    </item>
+    <item>
+      <title>英伟达确认 Vera Rubin 首季收入近 200 亿美元</title>
+      <link>https://www.fool.com/earnings/call-transcripts/2026/11/18/nvidia-nvda-q3-2027-earnings-call-transcript/</link>
+      <guid isPermaLink="false">hardware-2026-11-20-02</guid>
+      <pubDate>Fri, 20 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>英伟达确认 Vera Rubin 首季收入近 200 亿美元：11 月 17 日财报电话会上，临时 CEO Colette Kress 称 Vera Rubin 平台在首个量产出货季度贡献近 200 亿美元收入，是英伟达史上爬坡最快的产品；NVL72 机架已在 CoreWeave、谷歌云、微软 Azure、甲骨文云等客户处运行。财报本身（营收 1,158 亿美元、Q4 指引 1,300 亿美元）已在 11 月 18 日简报推送。来源：Motley Fool 财报电话会实录 —</p><p>来源：</p><ul><li><a href="https://www.fool.com/earnings/call-transcripts/2026/11/18/nvidia-nvda-q3-2027-earnings-call-transcript/">https://www.fool.com/earnings/call-transcripts/2026/11/18/nvidia-nvda-q3-2027-earnings-call-transcript/</a></li></ul>]]></description>
+    </item>
+    <item>
+      <title>Intel 公布数据中心 GPU D270 首批跑分，宣称 FP64 金融负载最高 5.9 倍于 RTX PRO 6000</title>
+      <link>https://wccftech.com/intel-first-benchmarks-crescent-island-d270-xe3p-gpu-a-5-9x-faster-rtx-pro-6000-fp64/</link>
+      <guid isPermaLink="false">hardware-2026-11-20-01</guid>
+      <pubDate>Fri, 20 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>Intel 公布数据中心 GPU D270 首批跑分，宣称 FP64 金融负载最高 5.9 倍于 RTX PRO 6000：11 月 16 日在 SC26 上，Intel 发布代号 Crescent Island 的 D270（Xe3P 架构，32 个 Xe 核心、160GB LPDDR5X 显存、350W）的首批自测成绩，对比 600W 的英伟达 RTX PRO 6000 Blackwell 服务器版：欧洲蒙特卡洛期权定价 5.9 倍、欧洲 Black-Scholes 5.6 倍、二项式定价 4.6 倍、美式蒙特卡洛 1.92 倍；AI 方面 Drex 2.0 延迟低 29%、Qwen3-30B 吞吐高 12%。关键在双精度：D270 是全速 FP64，而 RTX PRO 6000 的 FP64 仅为 FP32 的约 1/64。均为 Intel 自测、预生产芯片数据，客户送样 10 月已开始，未公布价格和上市时间。来源：Intel 官方 / Wccftech —</p><p>来源：</p><ul><li><a href="https://wccftech.com/intel-first-benchmarks-crescent-island-d270-xe3p-gpu-a-5-9x-faster-rtx-pro-6000-fp64/">https://wccftech.com/intel-first-benchmarks-crescent-island-d270-xe3p-gpu-a-5-9x-faster-rtx-pro-6000-fp64/</a></li></ul>]]></description>
+    </item>
+    <item>
+      <title>黑五前英国显卡价仍远高于首发价</title>
+      <link>https://www.byteorbital.com/deals/black-friday-2026-local-ai-gpu-mini-pc-guide</link>
+      <guid isPermaLink="false">hardware-2026-11-19-06</guid>
+      <pubDate>Thu, 19 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>黑五前英国显卡价仍远高于首发价：11 月 18 日对亚马逊英国的实查显示，RTX 5090 为 6,499.99 英镑（英国首发价 1,799.99 英镑），RTX 5080 为 1,549.99 英镑（首发价 979 英镑），RTX 5070 Ti 为 1,235.99 英镑（首发价 729 英镑），基本没有真正折扣。美国方面，11 月 18 日 Newegg 最便宜的 RTX 5090 为 6,199.99 美元，仍是 1,999 美元官方价的 3 倍多。以上为英国/美国渠道价。来源：Byte Orbital —</p><p>来源：</p><ul><li><a href="https://www.byteorbital.com/deals/black-friday-2026-local-ai-gpu-mini-pc-guide">https://www.byteorbital.com/deals/black-friday-2026-local-ai-gpu-mini-pc-guide</a></li></ul>]]></description>
+    </item>
+    <item>
+      <title>Intel 下一代 Razor Lake 首次现身 Linux 内核补丁</title>
+      <link>https://videocardz.com/newz/intel-razor-lake-s-u-and-l-variants-appear-in-linux-kernel-patch</link>
+      <guid isPermaLink="false">hardware-2026-11-19-05</guid>
+      <pubDate>Thu, 19 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>Intel 下一代 Razor Lake 首次现身 Linux 内核补丁：Intel 工程师 Tony Luck 11 月 13 日提交的内核补丁加入四个 Razor Lake 处理器标识：桌面版 Razor Lake（Family 18，型号 0x06）与 Razor Lake-S（0x0A），移动版 Razor Lake-U（0x09）与 Razor Lake-L（0x07）；同补丁还包含服务器端 Coral Rapids。补丁只做 CPU 识别，不含核心数、频率、功耗等规格；Razor Lake 传闻为 Nova Lake 的继任者，2028 年推出，未证实。来源：VideoCardz / TweakTown —</p><p>来源：</p><ul><li><a href="https://videocardz.com/newz/intel-razor-lake-s-u-and-l-variants-appear-in-linux-kernel-patch">https://videocardz.com/newz/intel-razor-lake-s-u-and-l-variants-appear-in-linux-kernel-patch</a></li></ul>]]></description>
+    </item>
+    <item>
+      <title>AMD 定下 CES 2027 发布会</title>
+      <link>https://www.club386.com/amd-ces-2027-tease/</link>
+      <guid isPermaLink="false">hardware-2026-11-19-04</guid>
+      <pubDate>Thu, 19 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>AMD 定下 CES 2027 发布会：2027 年 1 月 5 日上午 10 点（太平洋时间）：AMD 计算与图形业务负责人 Jack Huynh 11 月 17 日宣布，CES 2027 发布会在拉斯维加斯 Mandalay Bay 举行，预告“计算新时代的一瞥”，但未公布任何产品名。外界普遍预期消费级 Zen 6（桌面 Olympic Ridge、移动 Medusa Point）亮相，RDNA 5 可能只作预告；均未证实。来源：Club386 / VideoCardz —</p><p>来源：</p><ul><li><a href="https://www.club386.com/amd-ces-2027-tease/">https://www.club386.com/amd-ces-2027-tease/</a></li></ul>]]></description>
+    </item>
+    <item>
+      <title>（用户报告，未证实）英伟达 621.14/621.24 驱动被曝空闲时持续写盘</title>
+      <link>https://www.neowin.net/news/after-amd-nvidia-users-confirm-windows-driver-bug-quietly-degrades-your-ssd-over-time/</link>
+      <guid isPermaLink="false">hardware-2026-11-19-03</guid>
+      <pubDate>Thu, 19 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>（用户报告，未证实）英伟达 621.14/621.24 驱动被曝空闲时持续写盘：11 月 18 日多家媒体报道，用户在英伟达官方论坛反馈，NVDisplay.Container.exe 反复重写日志文件 nvlog.nvlgstg，621.14 驱动下有用户测得空闲 5 分钟写盘约 515MB，个别报告称每小时高达 30GB；回滚到 621.01 后写盘量大幅下降。英伟达尚未公开承认，621.24 发布说明中也未列为已知问题；进程级写盘计数不等于实际 NAND 写入量。继 AMD 同类问题（已在 Adrenalin 26.11.1 修复）之后，英伟达驱动也出现类似报告。来源：Neowin / VideoCardz —</p><p>来源：</p><ul><li><a href="https://www.neowin.net/news/after-amd-nvidia-users-confirm-windows-driver-bug-quietly-degrades-your-ssd-over-time/">https://www.neowin.net/news/after-amd-nvidia-users-confirm-windows-driver-bug-quietly-degrades-your-ssd-over-time/</a></li></ul>]]></description>
+    </item>
+    <item>
+      <title>英伟达 RTX Spark 台式机开售，起价 4,399 美元</title>
+      <link>https://thethreshold.media/blog/rtx-spark-desktop-mini-pc-price-specs-asus-msi-dell-2026</link>
+      <guid isPermaLink="false">hardware-2026-11-19-02</guid>
+      <pubDate>Thu, 19 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>英伟达 RTX Spark 台式机开售，起价 4,399 美元：11 月 18 日，华硕、戴尔、微星的 RTX Spark 紧凑型台式机在美国开售，搭载 N1X 超级芯片（20 核 Grace CPU + 6,144 核 Blackwell GPU），统一内存最高 128GB，定位本地运行 AI 智能体；微星 EdgeMesa N AI+ 64GB 版 4,399.99 美元，华硕 ProArt GR1X 64GB 版 4,499 美元，128GB 版最高 7,499.99 美元。宏碁、技嘉、惠普的机型与微软 Surface RTX Spark Dev Box（5,999.99 美元）尚未开售。以上为美国官方/渠道价。来源：The Verge / The Threshold —</p><p>来源：</p><ul><li><a href="https://thethreshold.media/blog/rtx-spark-desktop-mini-pc-price-specs-asus-msi-dell-2026">https://thethreshold.media/blog/rtx-spark-desktop-mini-pc-price-specs-asus-msi-dell-2026</a></li></ul>]]></description>
+    </item>
+    <item>
+      <title>JEDEC 预告 DDR6</title>
+      <link>https://wccftech.com/jedec-unveils-next-gen-ddr6-memory/</link>
+      <guid isPermaLink="false">hardware-2026-11-19-01</guid>
+      <pubDate>Thu, 19 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>JEDEC 预告 DDR6：带宽比 DDR5 高 50% 以上，速率 12.8 GT/s 起：11 月 18 日，JEDEC 公布 DDR6 标准预览，RDIMM 起始速率 12.8 GT/s（DDR5 参考值为 9.2 GT/s），路线图延伸至 14.4 GT/s 及以上；数据总线从 64 位拓宽到 96 位，单颗 DRAM 密度最高 128Gb，模块长度拟缩至 74mm（比 DDR5 的 133mm 短约 44%）。标准仍在制定中，规格可能改动，未公布最终定稿日期和上市时间。来源：JEDEC / Wccftech —</p><p>来源：</p><ul><li><a href="https://wccftech.com/jedec-unveils-next-gen-ddr6-memory/">https://wccftech.com/jedec-unveils-next-gen-ddr6-memory/</a></li></ul>]]></description>
+    </item>
+    <item>
+      <title>散热新品</title>
+      <link>https://www.guru3d.com/archive/202611</link>
+      <guid isPermaLink="false">hardware-2026-11-18-12</guid>
+      <pubDate>Wed, 18 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>散热新品：SilverStone 发布 Hailstone 420 一体水冷：11 月 17 日发布，420mm 冷排配 3 个 140mm 风扇，厂商标称支持最高 450W TDP，铜冷头覆盖 Threadripper PRO 等大面积顶盖，兼容 AM5/AM4 与 LGA1851/LGA1700 等接口；散热能力为厂商标称，未经独立验证。来源：Guru3D —</p><p>来源：</p><ul><li><a href="https://www.guru3d.com/archive/202611">https://www.guru3d.com/archive/202611</a></li></ul>]]></description>
+    </item>
+    <item>
+      <title>（传闻，未证实）Intel 下一代 Razor Lake 或为 12 个 P 核加 4 个低功耗核设计</title>
+      <link>https://www.guru3d.com/archive/202611</link>
+      <guid isPermaLink="false">hardware-2026-11-18-11</guid>
+      <pubDate>Wed, 18 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>（传闻，未证实）Intel 下一代 Razor Lake 或为 12 个 P 核加 4 个低功耗核设计：11 月 16 日爆料称，Razor Lake 桌面处理器将采用 12 个性能核、4 个低功耗核与 bLLC 大缓存，基于 18A 工艺；Intel 未证实该产品、名称与平台。注意与 11 月 10 日简报推送的另一条传闻（Razor Lake-S 推迟至 2028 年）不同，两条均为爆料人消息。来源：Guru3D —</p><p>来源：</p><ul><li><a href="https://www.guru3d.com/archive/202611">https://www.guru3d.com/archive/202611</a></li></ul>]]></description>
+    </item>
+    <item>
+      <title>NAND 拐点预期提前至 2027 年二季度</title>
+      <link>https://www.trendforce.com/news/2026/11/17/news-nand-spot-prices-reverse-course-sliding-20-in-2-weeks-amid-weak-consumer-demand-ymtc-competition/</link>
+      <guid isPermaLink="false">hardware-2026-11-18-10</guid>
+      <pubDate>Wed, 18 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>NAND 拐点预期提前至 2027 年二季度：TrendForce 11 月 17 日称，中国云厂商大幅削减 2027 年企业级 SSD 订单，NAND 合约价转跌的时间由此提前一个季度至 2027 年 4–6 月；512Gb TLC 晶圆现货价 11 月 9 日为 14.267 美元，三周跌 23.3%。但企业级 SSD 合约价四季度仍预计上涨 15%–20%，消费级与企业级走势分化。来源：TrendForce —</p><p>来源：</p><ul><li><a href="https://www.trendforce.com/news/2026/11/17/news-nand-spot-prices-reverse-course-sliding-20-in-2-weeks-amid-weak-consumer-demand-ymtc-competition/">https://www.trendforce.com/news/2026/11/17/news-nand-spot-prices-reverse-course-sliding-20-in-2-weeks-amid-weak-consumer-demand-ymtc-competition/</a></li></ul>]]></description>
+    </item>
+    <item>
+      <title>DRAM 零售仍处高位，TrendForce 预计 2027 年一季度涨价加速</title>
+      <link>https://techunbloated.com/when-will-ram-prices-go-down/</link>
+      <guid isPermaLink="false">hardware-2026-11-18-09</guid>
+      <pubDate>Wed, 18 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>DRAM 零售仍处高位，TrendForce 预计 2027 年一季度涨价加速：RamRadar 11 月 16 日数据显示，美国 32GB DDR5 套装中位价约 590 美元，一年前同规格约 100–200 美元；TrendForce 11 月 6 日预计 DRAM 涨价将在 2027 年一季度进一步加速。以上为美国渠道挂牌价中位数，非成交价；四季度 PC DRAM 合约价上涨 13%–18% 的预测已在 11 月 16 日简报推送。来源：TechUnbloated —</p><p>来源：</p><ul><li><a href="https://techunbloated.com/when-will-ram-prices-go-down/">https://techunbloated.com/when-will-ram-prices-go-down/</a></li></ul>]]></description>
+    </item>
+    <item>
+      <title>AMD 明确 Venice-X</title>
+      <link>https://www.guru3d.com/archive/202611</link>
+      <guid isPermaLink="false">hardware-2026-11-18-08</guid>
+      <pubDate>Wed, 18 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>AMD 明确 Venice-X：单插槽 1,152MB 三级缓存：11 月 17 日，AMD 在 SC26 上确认缓存型 EPYC 变体 Venice-X 每插槽提供 1,152MB L3 缓存，兼容 SP7 平台；所属的 EPYC 9006 系列最高 256 核、支持 PCIe Gen 6、内存带宽最高 1.6TB/s。来源：Guru3D —</p><p>来源：</p><ul><li><a href="https://www.guru3d.com/archive/202611">https://www.guru3d.com/archive/202611</a></li></ul>]]></description>
+    </item>
+    <item>
+      <title>摩根大通</title>
+      <link>https://longbridge.com/en/news/305759586</link>
+      <guid isPermaLink="false">hardware-2026-11-18-07</guid>
+      <pubDate>Wed, 18 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>摩根大通：英伟达 CUDA 护城河正在松动：11 月 17 日报告称，在 2026 年之后部署的前沿实验室算力协议中，英伟达 GPU 仅占约 28%（12.1GW/44GW），AMD 占 18%，其余流向谷歌等厂商；报告还称 AI 辅助迁移已把模型迁移到 AMD 平台的时间从 6–12 个月缩短到 3 天。这是分析师观点，非厂商官方数据。来源：Longbridge —</p><p>来源：</p><ul><li><a href="https://longbridge.com/en/news/305759586">https://longbridge.com/en/news/305759586</a></li></ul>]]></description>
+    </item>
+    <item>
+      <title>OpenAI 经 TensorWave 预订 457MW 的 AMD 算力</title>
+      <link>https://supercomputingonline.com/</link>
+      <guid isPermaLink="false">hardware-2026-11-18-06</guid>
+      <pubDate>Wed, 18 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>OpenAI 经 TensorWave 预订 457MW 的 AMD 算力：11 月 17 日消息，OpenAI 与 TensorWave 签订为期六年的协议，用 AMD Instinct MI455X 的 Helios 机架搭建专属算力，2027 年上半年先行上线、2028 年初全面部署；协议金额、机房地点与融资安排均未披露。来源：Supercomputing Online —</p><p>来源：</p><ul><li><a href="https://supercomputingonline.com/">https://supercomputingonline.com/</a></li></ul>]]></description>
+    </item>
+    <item>
+      <title>AMD 称 FP64 仿真只适用于不到 10% 的 HPC 工作负载</title>
+      <link>https://mlq.ai/news/amd-says-nvidia-style-fp64-emulation-suits-under-10-of-hpc-work-as-it-pitches-the-mi430x-at-sc26/</link>
+      <guid isPermaLink="false">hardware-2026-11-18-05</guid>
+      <pubDate>Wed, 18 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>AMD 称 FP64 仿真只适用于不到 10% 的 HPC 工作负载：AMD 在 SC26 发表的论文分析了 47 组工作负载配置、11 个应用，认为英伟达式的 Ozaki 仿真双精度方案只适合不到 10% 的密集矩阵型 HPC 任务，且仿真可能多耗约 3 倍显存。这是 AMD 的厂商研究，未经独立验证。来源：MLQ.ai —</p><p>来源：</p><ul><li><a href="https://mlq.ai/news/amd-says-nvidia-style-fp64-emulation-suits-under-10-of-hpc-work-as-it-pitches-the-mi430x-at-sc26/">https://mlq.ai/news/amd-says-nvidia-style-fp64-emulation-suits-under-10-of-hpc-work-as-it-pitches-the-mi430x-at-sc26/</a></li></ul>]]></description>
+    </item>
+    <item>
+      <title>AMD 称 MI455X 推理速度比英伟达 Vera Rubin 高 30%</title>
+      <link>https://www.tech360.tv/amd-pitches-three-instinct-chips-at-nvidia-s-inference-lead</link>
+      <guid isPermaLink="false">hardware-2026-11-18-04</guid>
+      <pubDate>Wed, 18 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>AMD 称 MI455X 推理速度比英伟达 Vera Rubin 高 30%：AMD 11 月 12 日公布的数据显示，MI455X 在 Helios 机架上跑 DeepSeek-R1，MLPerf 离线推理达每 GPU 每秒 21,333 个 token，比英伟达 Vera Rubin 已公布的 MLPerf 结果高 30%。这是 AMD 自测数据对比英伟达已公布成绩，并非双方同场审计的结果。来源：Tech360.tv —</p><p>来源：</p><ul><li><a href="https://www.tech360.tv/amd-pitches-three-instinct-chips-at-nvidia-s-inference-lead">https://www.tech360.tv/amd-pitches-three-instinct-chips-at-nvidia-s-inference-lead</a></li></ul>]]></description>
+    </item>
+    <item>
+      <title>AMD 扩充 Instinct MI400 产品线至三款</title>
+      <link>https://itbrief.com.au/story/amd-expands-instinct-mi400-line-with-mi430x-mi450x</link>
+      <guid isPermaLink="false">hardware-2026-11-18-03</guid>
+      <pubDate>Wed, 18 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>AMD 扩充 Instinct MI400 产品线至三款：SC26 期间 AMD 推出科学计算版 MI430X 与低价推理版 MI450X。MI430X 原生支持双精度计算，峰值 FP64 最高 288 TFLOPS，配 432GB HBM4、带宽 23.3TB/s，2027 年推出，已获橡树岭 Discovery 等超算选用；MI450X 与 MI455X 算力相同、显存减至 288GB HBM4。MI430X 的性能数字是工程预测，非实测结果。来源：IT Brief —</p><p>来源：</p><ul><li><a href="https://itbrief.com.au/story/amd-expands-instinct-mi400-line-with-mi430x-mi450x">https://itbrief.com.au/story/amd-expands-instinct-mi400-line-with-mi430x-mi450x</a></li></ul>]]></description>
+    </item>
+    <item>
+      <title>英伟达发布 Rubin HPC，超 5 万 CUDA 核心、2028 年上市</title>
+      <link>https://www.theregister.com/hpc/2026/11/17/gpu-giants-throw-hpc-users-some-tasty-crumbs/5310611</link>
+      <guid isPermaLink="false">hardware-2026-11-18-02</guid>
+      <pubDate>Wed, 18 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>英伟达发布 Rubin HPC，超 5 万 CUDA 核心、2028 年上市：11 月 16 日在 SC26 上发布，面向科学模拟与数据处理，是英伟达单芯片 CUDA 核心数最多的 GPU；显存容量、双精度性能、功耗与价格均未公布。来源：The Register —</p><p>来源：</p><ul><li><a href="https://www.theregister.com/hpc/2026/11/17/gpu-giants-throw-hpc-users-some-tasty-crumbs/5310611">https://www.theregister.com/hpc/2026/11/17/gpu-giants-throw-hpc-users-some-tasty-crumbs/5310611</a></li></ul>]]></description>
+    </item>
+    <item>
+      <title>英伟达换帅后首份财报超预期</title>
+      <link>https://mlq.ai/news/nvidia-results-live-revenue-rises-103-to-1158-billion-and-it-guides-to-130-billion-in-its-first-report-since-jensen-huang-left/</link>
+      <guid isPermaLink="false">hardware-2026-11-18-01</guid>
+      <pubDate>Wed, 18 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>英伟达换帅后首份财报超预期：北京时间 11 月 18 日凌晨发布的 2027 财年 Q3 财报显示，营收 1,158 亿美元、同比增长 103%，数据中心业务 1,076 亿美元、同比增长 110%，均高于市场预期；Q4 营收指引 1,300 亿美元（±3%），但毛利率指引 71%–72%，低于 Q3 的 74.8%。Vera Rubin NVL72 系统已开始出货，临时 CEO Colette Kress 把 2028 财年增长预期从 70% 上调至 75%；董事长在电话会上称董事会无意让黄仁勋复职。来源：MLQ.ai —</p><p>来源：</p><ul><li><a href="https://mlq.ai/news/nvidia-results-live-revenue-rises-103-to-1158-billion-and-it-guides-to-130-billion-in-its-first-report-since-jensen-huang-left/">https://mlq.ai/news/nvidia-results-live-revenue-rises-103-to-1158-billion-and-it-guides-to-130-billion-in-its-first-report-since-jensen-huang-left/</a></li></ul>]]></description>
+    </item>
+    <item>
+      <title>（厂商宣称，未独立验证）初创公司 Apex Compute 推出帧生成技术挑战 DLSS</title>
+      <link>https://www.tweaktown.com/news/114654/apex-neural-rendering-challenges-nvidia-dlss-with-faster-frame-generation-and-support-for-older-gpus/index.html</link>
+      <guid isPermaLink="false">hardware-2026-11-17-07</guid>
+      <pubDate>Tue, 17 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>（厂商宣称，未独立验证）初创公司 Apex Compute 推出帧生成技术挑战 DLSS：11 月 12 日，Apex Compute 发布 Apex Neural Rendering（ANR）帧生成公开测试版，支持 GTX 16 系、RTX 20 系及更新的英伟达显卡，以及 RX 5000 系及更新的 AMD 显卡和 Intel Arc，让老卡也能用 AI 帧生成。厂商自测称 4K 下每帧生成耗时 1.01ms、显存占用 214MB，优于 DLSS 帧生成，但数据未经第三方验证，社区反馈已有画面瑕疵与兼容问题。来源：TweakTown —</p><p>来源：</p><ul><li><a href="https://www.tweaktown.com/news/114654/apex-neural-rendering-challenges-nvidia-dlss-with-faster-frame-generation-and-support-for-older-gpus/index.html">https://www.tweaktown.com/news/114654/apex-neural-rendering-challenges-nvidia-dlss-with-faster-frame-generation-and-support-for-older-gpus/index.html</a></li></ul>]]></description>
+    </item>
+    <item>
+      <title>美银</title>
+      <link>https://en.sedaily.com/market/2026/11/16/nand-spot-prices-fall-20-percent-clouding-memory-super-cycle</link>
+      <guid isPermaLink="false">hardware-2026-11-17-06</guid>
+      <pubDate>Tue, 17 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>美银：NAND 现货价自 10 月下旬跌约 20%，DRAM 还在涨，内存市场分化：11 月 16 日报道，美银 11 月 13 日的报告称 NAND 闪存现货价自 10 月中下旬下跌约 20%，512Gb NAND 晶圆现货价 14.30 美元，单周跌 12%；该行预计 2027 年一季度 NAND 均价微跌，但 DRAM 四季度仍涨 8%、明年一季度再涨 5%。消息拖累韩国内存股，三星当日跌 4.47%，SK 海力士跌 7.89%。来源：Seoul Economic Daily —</p><p>来源：</p><ul><li><a href="https://en.sedaily.com/market/2026/11/16/nand-spot-prices-fall-20-percent-clouding-memory-super-cycle">https://en.sedaily.com/market/2026/11/16/nand-spot-prices-fall-20-percent-clouding-memory-super-cycle</a></li></ul>]]></description>
+    </item>
+    <item>
+      <title>英伟达今晚发布换帅后首份财报</title>
+      <link>https://nvidianews.nvidia.com/_gallery/download_pdf/6af5c3cc3d6332f541088655/</link>
+      <guid isPermaLink="false">hardware-2026-11-17-05</guid>
+      <pubDate>Tue, 17 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>英伟达今晚发布换帅后首份财报：按英伟达官方安排，2027 财年 Q3 财报将于美国时间 11 月 17 日约 13:20（太平洋时间）发布，即北京时间 11 月 18 日凌晨约 5:20，随后举行电话会；这是黄仁勋 11 月 12 日辞职、Colette Kress 出任临时 CEO 后的首份财报，数据中心与游戏业务表现是关注点。来源：NVIDIA 官网 —</p><p>来源：</p><ul><li><a href="https://nvidianews.nvidia.com/_gallery/download_pdf/6af5c3cc3d6332f541088655/">https://nvidianews.nvidia.com/_gallery/download_pdf/6af5c3cc3d6332f541088655/</a></li></ul>]]></description>
+    </item>
+    <item>
+      <title>英伟达称 GeForce 不会消失，但路线图仍无官方说法</title>
+      <link>https://www.tweaktown.com/news/114707/even-with-all-the-turmoil-geforce-is-apparently-safe-and-not-going-anywhere/index.html</link>
+      <guid isPermaLink="false">hardware-2026-11-17-04</guid>
+      <pubDate>Tue, 17 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>英伟达称 GeForce 不会消失，但路线图仍无官方说法：11 月 16 日，GeForce 负责人 Jacob Freeman 在 PDXLAN 上被问及“这是 GeForce 的终结吗”时回答“Nope”；不过他未必了解公司整体决策，RTX 60/70 系路线图仍无官方消息。另有“黄仁勋可能回归”的说法，目前只是传言，未证实。来源：TweakTown —</p><p>来源：</p><ul><li><a href="https://www.tweaktown.com/news/114707/even-with-all-the-turmoil-geforce-is-apparently-safe-and-not-going-anywhere/index.html">https://www.tweaktown.com/news/114707/even-with-all-the-turmoil-geforce-is-apparently-safe-and-not-going-anywhere/index.html</a></li></ul>]]></description>
+    </item>
+    <item>
+      <title>美国 Newegg 的 RTX 5090 回货了，但价格仍是官方价 3 倍多</title>
+      <link>https://www.tweaktown.com/news/114681/nvidia-rtx-5090-returns-to-newegg-stock-but-prices-start-at-over-3x-msrp/index.html</link>
+      <guid isPermaLink="false">hardware-2026-11-17-03</guid>
+      <pubDate>Tue, 17 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>美国 Newegg 的 RTX 5090 回货了，但价格仍是官方价 3 倍多：11 月 15 日，华硕、技嘉、微星的 RTX 5090 在 Newegg 上架，价格 6,199.99–7,349.99 美元，对比 1,999 美元官方建议价；供货时断时续，尚不能说供应或价格已实质好转。以上为美国渠道价。来源：TweakTown —</p><p>来源：</p><ul><li><a href="https://www.tweaktown.com/news/114681/nvidia-rtx-5090-returns-to-newegg-stock-but-prices-start-at-over-3x-msrp/index.html">https://www.tweaktown.com/news/114681/nvidia-rtx-5090-returns-to-newegg-stock-but-prices-start-at-over-3x-msrp/index.html</a></li></ul>]]></description>
+    </item>
+    <item>
+      <title>日本 RTX 5090/5080 降价最高 22%，但只是回到全球高位</title>
+      <link>https://www.tweaktown.com/news/114685/nvidia-geforce-rtx-5090-and-rtx-5080-prices-fall-up-to-22-percent-in-japan-as-jensen-huang-steps-down/index.html</link>
+      <guid isPermaLink="false">hardware-2026-11-17-02</guid>
+      <pubDate>Tue, 17 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>日本 RTX 5090/5080 降价最高 22%，但只是回到全球高位：11 月 15 日晚报道，日本多家媒体称 RTX 5090 最高降价 22%，其中 Palit RTX 5090 GameRock 在秋叶原 Dospara 降至 999,800 日元（约 6,300 美元）；RTX 5080 降 16.7% 至 299,800 日元（约 1,876 美元）。TweakTown 指出这只是日本本地行情——日本此前涨得更高，降价后与美国价格基本持平，并非全球降价信号。以上为日本渠道价。来源：TweakTown —</p><p>来源：</p><ul><li><a href="https://www.tweaktown.com/news/114685/nvidia-geforce-rtx-5090-and-rtx-5080-prices-fall-up-to-22-percent-in-japan-as-jensen-huang-steps-down/index.html">https://www.tweaktown.com/news/114685/nvidia-geforce-rtx-5090-and-rtx-5080-prices-fall-up-to-22-percent-in-japan-as-jensen-huang-steps-down/index.html</a></li></ul>]]></description>
+    </item>
+    <item>
+      <title>未发布的 RTX 4090 Ti 工程样品现身中国二手平台</title>
+      <link>https://www.tweaktown.com/news/114713/another-nvidia-rtx-4090-ti-engineering-sample-surfaces-in-china-with-24gbps-memory/index.html</link>
+      <guid isPermaLink="false">hardware-2026-11-17-01</guid>
+      <pubDate>Tue, 17 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>未发布的 RTX 4090 Ti 工程样品现身中国二手平台：11 月 16 日，闲鱼上一块无散热器的 RTX 4090 Ti 工程样品被曝光，GPU-Z 显示 18,176 个 CUDA 核心、24Gbps GDDR6X 显存，带宽 1,152GB/s，比零售版 RTX 4090 高约 14%；卖家称只能用英伟达内部驱动，且已售出。规格来自未经证实的二手 listing，零售版参数本可能不同。来源：TweakTown —</p><p>来源：</p><ul><li><a href="https://www.tweaktown.com/news/114713/another-nvidia-rtx-4090-ti-engineering-sample-surfaces-in-china-with-24gbps-memory/index.html">https://www.tweaktown.com/news/114713/another-nvidia-rtx-4090-ti-engineering-sample-surfaces-in-china-with-24gbps-memory/index.html</a></li></ul>]]></description>
+    </item>
+    <item>
+      <title>三星 11 月 12 日为 HBM 封装厂破土动工，目标 2028 年 6 月投产</title>
+      <link>https://www.ajupress.com//view/20261112163713125</link>
+      <guid isPermaLink="false">hardware-2026-11-16-08</guid>
+      <pubDate>Mon, 16 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>三星 11 月 12 日为 HBM 封装厂破土动工，目标 2028 年 6 月投产：三星在韩国牙山温阳园区为 HBM 封装新厂（Onyang Line 5）举行奠基仪式，厂房投资 6 万亿韩元，含设备在内的园区总投资约 46 万亿韩元（约 340 亿美元），投产目标比原计划提前一年至 2028 年 6 月，量产预计 2029 年 5 月起。三星称 2027 年 HBM 供应量已与客户谈妥，但客户仍要求更多，短缺将持续至 2028 年。来源：AJU Press / MLQ — ；</p><p>来源：</p><ul><li><a href="https://www.ajupress.com//view/20261112163713125">https://www.ajupress.com//view/20261112163713125</a></li><li><a href="https://mlq.ai/news/samsung-breaks-ground-on-onyang-hbm-packaging-fab-as-koreas-lee-says-40-trillion-won-of-equipment-will-follow/">https://mlq.ai/news/samsung-breaks-ground-on-onyang-hbm-packaging-fab-as-koreas-lee-says-40-trillion-won-of-equipment-will-follow/</a></li></ul>]]></description>
+    </item>
+    <item>
+      <title>（传闻，未证实）AMD 下代 Halo APU 或改名“Siren Halo”，并配独立 GDDR7 显存</title>
+      <link>https://www.techspot.com/news/114548-amd-rebrands-medusa-halo-siren-halo-leak-points.html</link>
+      <guid isPermaLink="false">hardware-2026-11-16-07</guid>
+      <pubDate>Mon, 16 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>（传闻，未证实）AMD 下代 Halo APU 或改名“Siren Halo”，并配独立 GDDR7 显存：爆料者 Gotou_3rd 11 月 12 日在 X 上称，原“Medusa Halo”改名为 Siren Halo，特点是除 LPDDR 系统内存外另配一块独立 GDDR7 显存，搭配 Zen 6 CPU 与 RDNA 5 核显；2027 年不会有全新 Halo 设计，而是 Zen 5 的 Gorgon Halo 改款。单一爆料者信源，AMD 未回应，容量、位宽、发布时间均未知。来源：TechSpot / VideoCardz — ；</p><p>来源：</p><ul><li><a href="https://www.techspot.com/news/114548-amd-rebrands-medusa-halo-siren-halo-leak-points.html">https://www.techspot.com/news/114548-amd-rebrands-medusa-halo-siren-halo-leak-points.html</a></li><li><a href="https://videocardz.com/newz/amd-next-gen-siren-halo-zen6-rdna5-apu-rumored-to-support-gddr7-memory">https://videocardz.com/newz/amd-next-gen-siren-halo-zen6-rdna5-apu-rumored-to-support-gddr7-memory</a></li></ul>]]></description>
+    </item>
+    <item>
+      <title>Ryzen 7 9800X3D 跌至 379 美元历史低点</title>
+      <link>https://world-today-journal.com/ryzen-7-9800x3d-hits-record-low-379-price-at-micro-center/</link>
+      <guid isPermaLink="false">hardware-2026-11-16-06</guid>
+      <pubDate>Mon, 16 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>Ryzen 7 9800X3D 跌至 379 美元历史低点：11 月 15 日报道，Micro Center 店内自提价 379 美元，比首发价低 100 美元；亚马逊与 Newegg 线上为 399.99 美元（美元，美国渠道价）。同系列 Ryzen 7 9850X3D 在 Newegg 用优惠码后降至 419 美元。来源：World Today Journal（转述 Wccftech）—</p><p>来源：</p><ul><li><a href="https://world-today-journal.com/ryzen-7-9800x3d-hits-record-low-379-price-at-micro-center/">https://world-today-journal.com/ryzen-7-9800x3d-hits-record-low-379-price-at-micro-center/</a></li></ul>]]></description>
+    </item>
+    <item>
+      <title>RTX 5070 Ti 二手中间价 11 月 15 日升至 1,579 美元</title>
+      <link>https://siliconcomps.com/gpu/rtx-5070-ti/price-history/</link>
+      <guid isPermaLink="false">hardware-2026-11-16-05</guid>
+      <pubDate>Mon, 16 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>RTX 5070 Ti 二手中间价 11 月 15 日升至 1,579 美元：SiliconComps 追踪的 eBay 二手中间价（Buy It Now 挂牌价中位数，非成交价）11 月 15 日为 1,579 美元，42 天内上涨 21.5%；新卡美国渠道价约 1,230–1,400 美元，仍远高于 749 美元官方建议价。来源：SiliconComps —</p><p>来源：</p><ul><li><a href="https://siliconcomps.com/gpu/rtx-5070-ti/price-history/">https://siliconcomps.com/gpu/rtx-5070-ti/price-history/</a></li></ul>]]></description>
+    </item>
+    <item>
+      <title>桌面 DDR5 零售均价仍处高位，90 天涨超三成</title>
+      <link>https://ramradar.app/why-ram-prices-are-rising</link>
+      <guid isPermaLink="false">hardware-2026-11-16-04</guid>
+      <pubDate>Mon, 16 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>桌面 DDR5 零售均价仍处高位，90 天涨超三成：RamRadar 11 月 15 日数据显示，桌面 DDR5 套装均价 19.72 美元/GB（224 款追踪产品），90 天上涨 34.7%，DDR4 为 8.49 美元/GB；与现货回落形成反差，说明现货转弱尚未传导到零售端。SK 海力士 10 月 28 日称需求超过供应将持续至 2030 年，三星称市场紧张持续至 2028 年。来源：RamRadar —</p><p>来源：</p><ul><li><a href="https://ramradar.app/why-ram-prices-are-rising">https://ramradar.app/why-ram-prices-are-rising</a></li></ul>]]></description>
+    </item>
+    <item>
+      <title>内存现货连续第四周下跌，市场判断转入“修正”</title>
+      <link>https://ddrwatcher.com/briefs/week-2026-46</link>
+      <guid isPermaLink="false">hardware-2026-11-16-03</guid>
+      <pubDate>Mon, 16 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>内存现货连续第四周下跌，市场判断转入“修正”：DDRWatcher 11 月 15 日周报显示，DDR4 现货均价 46.51 美元，周跌 2.7%，连续第四周下跌；DDR5 现货 60.21 美元，周跌 1.4%；GDDR6 基本持平于 12.51 美元，周涨 0.3%。该机构把市场状态从“过渡”改为“修正”，但信心较低，因为成品内存条价格依然坚挺（DDR5 模组均价 243.22 美元，周涨 0.6%），且尚未出现新的合约价重置。TrendForce 11 月 11 日更新仍预计四季度 PC DRAM 合约价上涨 13–18%。以上均为美元现货/合约价，非零售价。来源：DDRWatcher —</p><p>来源：</p><ul><li><a href="https://ddrwatcher.com/briefs/week-2026-46">https://ddrwatcher.com/briefs/week-2026-46</a></li></ul>]]></description>
+    </item>
+    <item>
+      <title>（报道，未证实与显卡涨价的因果）WSJ 称黄仁勋曾资助 AI 初创公司消化英伟达过剩芯片</title>
+      <link>https://wccftech.com/jensen-huang-financed-ai-startups-absorb-excess-silicon/amp/</link>
+      <guid isPermaLink="false">hardware-2026-11-16-02</guid>
+      <pubDate>Mon, 16 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>（报道，未证实与显卡涨价的因果）WSJ 称黄仁勋曾资助 AI 初创公司消化英伟达过剩芯片：Wccftech 11 月 13 日转述《华尔街日报》称，2026 年 8 月黄仁勋与时任 CFO、现临时 CEO Colette Kress 发生争执，后者把对 OpenAI 的算力担保上限从约 8GW、最高 2,500 亿美元砍至约 4.25GW、最高 1,250 亿美元；报道称英伟达通过资助 AI 初创公司和小型云厂商买走其向台积电超额订购的芯片，以避免供应涌入市场压低 GPU 价格。但多家转载分析指出，WSJ 原文并未提及显卡或内存零售价，所谓“人为制造缺货”仍是解读，尚无公开文件佐证；另有分析师估算至少 2,000 亿美元英伟达 AI GPU 因缺电或需求不足而闲置，同样未证实。来源：Wccftech / The Geek — ；</p><p>来源：</p><ul><li><a href="https://wccftech.com/jensen-huang-financed-ai-startups-absorb-excess-silicon/amp/">https://wccftech.com/jensen-huang-financed-ai-startups-absorb-excess-silicon/amp/</a></li><li><a href="https://pasqualepillitteri.it/en/news/33299/nvidia-gpu-shortage-funded-startups-report">https://pasqualepillitteri.it/en/news/33299/nvidia-gpu-shortage-funded-startups-report</a></li></ul>]]></description>
+    </item>
+    <item>
+      <title>美法官裁定 DRAM 价格操纵诉讼继续推进，三巨头须在 12 月 7 日前答辩</title>
+      <link>https://www.talkesport.com/editorials/samsung-sk-hynix-micron-dram-antitrust-lawsuit-ram-prices-explained/</link>
+      <guid isPermaLink="false">hardware-2026-11-16-01</guid>
+      <pubDate>Mon, 16 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>美法官裁定 DRAM 价格操纵诉讼继续推进，三巨头须在 12 月 7 日前答辩：美国加州北区联邦法官 Noël Wise 于 11 月 14 日驳回三星、SK 海力士、美光的联合撤诉动议，认定原告关于三家公司协调限制常规 DRAM 供应、把产能转向 HBM 的指控“合理可信”，案件进入下一阶段；原告为 17 名消费者和小企业，2026 年 6 月 25 日起诉，首次案件管理会议定于 2027 年 1 月 12 日。需注意：这只是驳回撤诉动议，操纵指控本身尚未被证实，三家公司均否认串谋。来源：TalkEsport / Tech-Pulse — ；</p><p>来源：</p><ul><li><a href="https://www.talkesport.com/editorials/samsung-sk-hynix-micron-dram-antitrust-lawsuit-ram-prices-explained/">https://www.talkesport.com/editorials/samsung-sk-hynix-micron-dram-antitrust-lawsuit-ram-prices-explained/</a></li><li><a href="https://www.tech-pulse.online/article/federal-judge-lets-dram-price-fixing-suit-stand-against-samsung-sk-hynix-and-micron">https://www.tech-pulse.online/article/federal-judge-lets-dram-price-fixing-suit-stand-against-samsung-sk-hynix-and-micron</a></li></ul>]]></description>
+    </item>
+    <item>
+      <title>内存现货出现转弱信号，零售仍处高位</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-15-04</guid>
+      <pubDate>Sun, 15 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>内存现货出现转弱信号，零售仍处高位：DDRWatcher 11 月 14 日周报显示，DDR5 现货均价 60.21 美元、周跌 1.4%，DDR4 周跌 2.7%、连续第四周下跌；MemoryIndex 11 月 14 日零售 32GB DDR5 套装指数 453.68 美元、日跌 0.9%。但 RamRadar 同日数据显示桌面 DDR5 均价 19.80 美元/GB，30 天仍涨 16%，现货转弱尚未传导到零售端。来源：DDRWatcher / MemoryIndex / RamRadar。</p>]]></description>
+    </item>
+    <item>
+      <title>七彩虹 iGame X870E Senna V14 在中国上市</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-15-03</guid>
+      <pubDate>Sun, 15 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>七彩虹 iGame X870E Senna V14 在中国上市：11 月 12 日在京东上架，售价 2,399 元人民币，AM5 / X870E，支持 Ryzen 7000/8000/9000，5 个 M.2 插槽、Wi-Fi 7、双 USB4，16+2+1 相供电；未公布海外上市计划。来源：IT Home / Techtroduce。</p>]]></description>
+    </item>
+    <item>
+      <title>Intel Q3 桌面 CPU 出货份额回升至 70.1%</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-15-02</guid>
+      <pubDate>Sun, 15 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>Intel Q3 桌面 CPU 出货份额回升至 70.1%：Mercury Research 11 月 13–14 日数据，Intel 桌面 x86 出货份额从 Q2 的 65.1% 升至 70.1%，AMD 从 34.9% 降至 29.9%，为 2025 年初以来首次跌破 30%；但桌面整体出货量同比、环比均下滑超 20%，属于“份额变大、蛋糕变小”。同期 AMD 服务器 CPU 份额升至 35.5%。来源：Mercury Research / PC Gamer。</p>]]></description>
+    </item>
+    <item>
+      <title>AMD 推出 MI450X，称 MI455X 推理比 Vera Rubin 快至多 30%（厂商自测）</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-15-01</guid>
+      <pubDate>Sun, 15 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>AMD 推出 MI450X，称 MI455X 推理比 Vera Rubin 快至多 30%（厂商自测）：AMD 11 月 12 日宣布，MI450X 为 Helios 机架系统的新选项，288GB HBM4，算力、带宽与 432GB 的 MI455X 相同；MI455X 在 DeepSeek-R1 上测得每 GPU 21,333 tokens/秒，比英伟达 Vera Rubin 已发布的 MLPerf v6.1 成绩高至多 30%，但测试由 AMD Performance Labs 在 10 月完成，并非 AMD 的独立 MLPerf 提交。MI450X 未公布价格与出货时间。来源：AMD 新闻中心。</p>]]></description>
+    </item>
+    <item>
+      <title>X3D 处理器黑五降价</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-14-06</guid>
+      <pubDate>Sat, 14 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>X3D 处理器黑五降价：Newegg 黑五促销中，Ryzen 7 9800X3D 用码后 399.99 美元（原价 479 美元），为今年最低；9850X3D 419 美元、7800X3D 339 美元、7700X3D 299 美元；AMD 官网 11 月 12 日标价为 7800X3D 360 美元、9800X3D 429 美元、9850X3D 454 美元。来源：VideoCardz / Wccftech。</p>]]></description>
+    </item>
+    <item>
+      <title>AMD 发布 Adrenalin 26.11.1 驱动，修复 SSD 写入问题</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-14-05</guid>
+      <pubDate>Sat, 14 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>AMD 发布 Adrenalin 26.11.1 驱动，修复 SSD 写入问题：11 月 12 日发布的 Optional 驱动修复 RX 7000 及更新显卡待机时、以及移动/调整窗口时对系统盘的过度写入，问题源于 atieclxx.exe 进程，写入速率约 0.3–5MB/s；该版本为非 WHQL 的 Optional 驱动。来源：AMD / Wccftech。</p>]]></description>
+    </item>
+    <item>
+      <title>传 AMD “Siren Halo” APU 配独立 GDDR7（未证实）</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-14-04</guid>
+      <pubDate>Sat, 14 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>传 AMD “Siren Halo” APU 配独立 GDDR7（未证实）：爆料人 Gotou_3rd 11 月 12 日称，原 Medusa Halo 更名为 Siren Halo，将同时配备独立 GDDR7 显存与 LPDDR 系统内存，传闻搭配 Zen 6 CPU 与 RDNA 5 核显；与下一代 Xbox 的 Magnus 芯片传闻有关联，AMD 未证实。来源：VideoCardz / TechSpot。</p>]]></description>
+    </item>
+    <item>
+      <title>Intel Core Ultra 7 260K 静默上市，仅限整机</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-14-03</guid>
+      <pubDate>Sat, 14 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>Intel Core Ultra 7 260K 静默上市，仅限整机：11 月 13 日消息，20 核 Arrow Lake 处理器出现在 Newegg ABS 整机中，P 核睿频 5.4GHz（265K 为 5.5GHz），Intel 确认为限量 SKU、不单独零售；搭 RTX 5060 整机 1,699 美元、搭 RTX 5070 整机 1,999 美元，零售页面存在 5.2GHz 与 5.4GHz 的规格出入。来源：Tom&#x27;s Hardware / VideoCardz。</p>]]></description>
+    </item>
+    <item>
+      <title>传 AMD 中国区游戏 GPU 分配削减 20–50%（未证实）</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-14-02</guid>
+      <pubDate>Sat, 14 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>传 AMD 中国区游戏 GPU 分配削减 20–50%（未证实）：ChannelGate 11 月 12 日消息称，AMD 自 10 月起削减对中国板卡厂商的游戏 GPU 芯片分配，幅度 20–50% 不等，紧张可能持续到 2027 年 1 月；未说明涉及哪些型号，AMD 未证实。来源：ChannelGate / IT Home。</p>]]></description>
+    </item>
+    <item>
+      <title>DRAM 三巨头反垄断案 11 月 13 日开庭听证，未裁决</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-14-01</guid>
+      <pubDate>Sat, 14 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>DRAM 三巨头反垄断案 11 月 13 日开庭听证，未裁决：美国加州北区联邦法院法官 Noel Wise 听取三星、SK 海力士、美光驳回动议的辩论，审理 27 分钟后留待书面裁决；原告指控三家合谋限产抬价，被告称这是“合法的寡头行为”，涨价源于 AI 需求而非合谋。该案 2026 年 6 月 25 日立案，案号 5:26-cv-06345-NW。来源：MLex / 法院记录。</p>]]></description>
+    </item>
+    <item>
+      <title>更正说明</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-13-08</guid>
+      <pubDate>Fri, 13 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>更正说明：Intel Clearwater Forest 并非今日新品：Xeon 6+ Clearwater Forest 最高 288 核，2026 年 6 月 1 日上市，Intel 10 月 29 日财报电话会确认已按收入出货，10 月起向超大规模客户以外的厂商扩大供货，售价 4,608–14,995 美元。来源：ServeTheHome / Intel。</p>]]></description>
+    </item>
+    <item>
+      <title>NAND 走势出现分歧</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-13-07</guid>
+      <pubDate>Fri, 13 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>NAND 走势出现分歧：TheElec 11 月 2 日报道，DRAM 合约价 10 月再创纪录，NAND 连续 21 个月的涨势则停滞，TrendForce 称 NAND 价格 Q4 可能回落；这与此前 Q4 NAND 合约价涨 15–20% 的预测存在冲突，目前尚无定论。来源：TheElec / TrendForce。</p>]]></description>
+    </item>
+    <item>
+      <title>Intel Panther Lake 供货价传涨 15–20%（未证实，10 月消息）</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-13-06</guid>
+      <pubDate>Fri, 13 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>Intel Panther Lake 供货价传涨 15–20%（未证实，10 月消息）：《工商时报》10 月 12 日引述供应链消息称，Intel 自 9 月 1 日起上调供货价，高端核显版 Panther Lake 涨 15–20%，Meteor Lake、Arrow Lake 等涨 5–10%；这是供应商层面的价格，Intel 未证实，零售端涨幅尚未确认。来源：《工商时报》/ TrendForce。</p>]]></description>
+    </item>
+    <item>
+      <title>欧洲显卡均价高于建议价 55%</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-13-05</guid>
+      <pubDate>Fri, 13 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>欧洲显卡均价高于建议价 55%：DropReference 11 月 12 日数据显示，欧元区 12 款 RTX 50 / RX 9000 显卡平均高于建议价 55%，30 天最低价涨 8.7%；RTX 5090 最低 7,499 欧元、均价 8,955 欧元，高于建议价 257%。来源：DropReference。</p>]]></description>
+    </item>
+    <item>
+      <title>传 SK 海力士 HBM4 良率超过 70%（未证实）</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-13-04</guid>
+      <pubDate>Fri, 13 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>传 SK 海力士 HBM4 良率超过 70%（未证实）：韩国《朝鲜日报》11 月 12 日引述业界消息称，SK 海力士 HBM4 生产良率近期超过 70%，公司未正式披露具体数字，且良率计算口径因生产阶段而异、比较需谨慎；9 月业界消息称三星 HBM4 良率约 80%。来源：Chosun Biz。</p>]]></description>
+    </item>
+    <item>
+      <title>内存厂拟再涨价，企业先动、消费暂缓</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-13-03</guid>
+      <pubDate>Fri, 13 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>内存厂拟再涨价，企业先动、消费暂缓：TrendForce 11 月 12 日称，多家内存厂商已口头通知经销商上调企业级内存价格，正式涨价通知尚未发出，渠道价已先涨；企业级 SSD Q4 合约价预计涨 15–20%，韩国厂商计划 2027 年将 PC DRAM 产量削减 20% 以上。来源：TrendForce / 蓝鲸新闻。</p>]]></description>
+    </item>
+    <item>
+      <title>TrendForce 11 月 11 日</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-13-02</guid>
+      <pubDate>Fri, 13 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>TrendForce 11 月 11 日：PC DRAM Q4 预计涨 13–18%，但 PC 需求在走弱：笔记本 Q3 出货环比降 15.8%，OEM 内存库存从 6–9 周升至 7–10 周，部分厂商正在调整 Q4 与 2027 年 Q1 采购计划；消费级 SSD 合约价 Q4 预计涨幅不到 5%，明显低于上一季度。来源：TrendForce。</p>]]></description>
+    </item>
+    <item>
+      <title>黄仁勋辞任英伟达 CEO</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-13-01</guid>
+      <pubDate>Fri, 13 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>黄仁勋辞任英伟达 CEO：英伟达 11 月 12 日公告，董事会 11 月 11 日接受黄仁勋辞去总裁、CEO 及董事职务，即刻生效，结束 33 年掌舵；CFO Colette Kress 任临时 CEO，董事会启动继任者遴选，并任命 Harvey C. Jones 为公司首任董事长。SEC 8-K 文件未说明辞职原因，Q3 财报仍定于 11 月 17 日发布。来源：英伟达 SEC 8-K / The Register。</p>]]></description>
+    </item>
+    <item>
+      <title>内存现货 11 月 11 日更新</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-12-08</guid>
+      <pubDate>Thu, 12 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>内存现货 11 月 11 日更新：MemoryIndex 显示 DDR5 16Gb 芯片现货 60.99 美元，30 天涨 5.79%、同比涨 484%；5 个追踪品种篮子平均 30 天涨 13.12%、同比涨 349.8%。来源：MemoryIndex。</p>]]></description>
+    </item>
+    <item>
+      <title>AMD EPYC Embedded 9006 同步推出</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-12-07</guid>
+      <pubDate>Thu, 12 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>AMD EPYC Embedded 9006 同步推出：AMD 在 11 月 10 日的 EPYC 9006 发布中同步推出嵌入式版本，最高 256 核，用于芯片测试设备、存储阵列与网络防火墙，本月晚些时候向客户出货。来源：MLQ / AMD。</p>]]></description>
+    </item>
+    <item>
+      <title>AMD 与 Intel 发布 ACE v2 与 AVX10.3 规范</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-12-06</guid>
+      <pubDate>Thu, 12 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>AMD 与 Intel 发布 ACE v2 与 AVX10.3 规范：x86 生态咨询组 11 月 10 日发布 ACE v2 与 AVX10.3，加入 4-bit 数据格式与新的 FP8/BF16 转换，GCC 补丁同日上邮件列表；目前没有在售芯片支持 ACE v1，首批支持 ACE v2 的 CPU 预计在 2028–2029 年。来源：HW Busters / Phoronix。</p>]]></description>
+    </item>
+    <item>
+      <title>传 Intel Nova Lake-S 超过 90°C 限频 5.1GHz（未证实）</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-12-05</guid>
+      <pubDate>Thu, 12 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>传 Intel Nova Lake-S 超过 90°C 限频 5.1GHz（未证实）：爆料人 Jaykihn 11 月 4 日称，Nova Lake-S 桌面 CPU 超过 90°C 时将全系限制最高频率为 5.1GHz，与 100°C 的 TJMax 热节流分开，且阈值不可上调；Intel 未证实，正式频率尚未公布。来源：Jaykihn / Wccftech。</p>]]></description>
+    </item>
+    <item>
+      <title>中国 RTX 50 系列 11 月出厂价再涨</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-12-04</guid>
+      <pubDate>Thu, 12 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>中国 RTX 50 系列 11 月出厂价再涨：七彩虹 11 月出厂价显示，RTX 5080 涨 2,500–2,800 元人民币，RTX 5090 D V2 涨 2,200–3,300 元人民币（约 494 美元）；这是给经销商的渠道供货价，不是零售价，英伟达未宣布调整官方建议价。来源：Board Channels / VideoCardz，11 月 3–4 日。</p>]]></description>
+    </item>
+    <item>
+      <title>台湾显卡 11 月 2 日起再涨一轮</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-12-03</guid>
+      <pubDate>Thu, 12 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>台湾显卡 11 月 2 日起再涨一轮：欣亚数位 11 月 2 日报价显示，RTX 5090 平均涨约 28.7%，最低价从 171,215 新台币涨至 220,340 新台币，顶规贵 6 万新台币；RTX 5080 涨约 14%、5070 Ti 涨约 10.3%，AMD RX 9060 XT 涨 23.4%、9070 XT 涨 17.3%，部分高阶卡需搭机购买。来源：ETtoday / TVBS，11 月 2–3 日。</p>]]></description>
+    </item>
+    <item>
+      <title>台湾 DDR5 16GB 涨至约 9,400 新台币</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-12-02</guid>
+      <pubDate>Thu, 12 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>台湾 DDR5 16GB 涨至约 9,400 新台币：风传媒 11 月 8–10 日报道，金士顿主流 DDR5 16GB 通路报价约 9,400 新台币（约 295 美元），年初约 1,700 新台币，涨约 5.5 倍，业者预期年底可能突破 1 万新台币；威刚 DDR5 16GB 从 1,700 涨至 8,200 新台币，32GB 从 3,600 涨至 15,000 新台币。来源：风传媒 / TVBS。</p>]]></description>
+    </item>
+    <item>
+      <title>传英伟达取消 24GB 版 RTX 5080（未证实）</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-12-01</guid>
+      <pubDate>Thu, 12 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>传英伟达取消 24GB 版 RTX 5080（未证实）：Board Channels 11 月 11 日消息称，英伟达已通知板卡厂商取消原定 2027 年 1 月的 24GB 版上市计划，原因是 3GB GDDR7 模组成本约为 2GB 版的三倍，16GB 版将继续生产；Notebookcheck 将范围限定为中国市场，VideoCardz 按全球取消报道，英伟达未证实。来源：Board Channels / Gazlog、Wccftech。</p>]]></description>
+    </item>
+    <item>
+      <title>传英伟达或因 H200 出口审查放缓芯片订单（未证实）</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-11-06</guid>
+      <pubDate>Wed, 11 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>传英伟达或因 H200 出口审查放缓芯片订单（未证实）：《工商时报》11 月 10 日引述供应链消息称，英伟达可能因出口审查收紧而削减芯片订单，或释放产能给 AMD 等厂商；路透 11 月 5 日报道约 60 万颗 H200 滞留在香港等待北京进口批准，获批可能不足 20 万颗。英伟达未证实订单削减说法。来源：《工商时报》/ 路透。</p>]]></description>
+    </item>
+    <item>
+      <title>内存价格 11 月 10 日更新</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-11-05</guid>
+      <pubDate>Wed, 11 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>内存价格 11 月 10 日更新：芯片现货微涨、零售套条略回落：MemoryIndex 11 月 10 日数据显示，品牌 DDR5 16Gb 芯片现货 61.83 美元（+0.53%），零售 32GB DDR5 套条指数 454.01 美元（-2.42%）；BasketPrice 同日显示，美国亚马逊最便宜 32GB DDR5 套条 479.99 美元、中位价 549.99 美元。来源：MemoryIndex / BasketPrice。</p>]]></description>
+    </item>
+    <item>
+      <title>黑五难有便宜 SSD</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-11-04</guid>
+      <pubDate>Wed, 11 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>黑五难有便宜 SSD：Addlink 11 月 9–10 日称，2024 年黑五约 50 美元的 1TB Gen4 NVMe 如今零售均价约 144 美元，2TB 约 220–300 美元；NAND 合约价同比涨约 303%，TrendForce 预计 Q4 再涨 15–20%，群联称 2026 年产能已售罄。来源：Addlink / TrendForce。</p>]]></description>
+    </item>
+    <item>
+      <title>美国亚马逊 10 月桌面 CPU 销量 AMD 占 81%</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-11-03</guid>
+      <pubDate>Wed, 11 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>美国亚马逊 10 月桌面 CPU 销量 AMD 占 81%：TechEpiphany 11 月 3 日统计，AMD 售出 28,200 颗（81.27%）、英伟达无关、Intel 6,500 颗（18.73%，补计 Arrow Lake 后约 7,850 颗）；单品第一是 Ryzen 7 9800X3D（5,000 颗），AM4 平台仍占约 38%（13,100 颗），Intel LGA1700 销量是 LGA1851 的 5 倍以上。来源：TechEpiphany / Wccftech。</p>]]></description>
+    </item>
+    <item>
+      <title>Zen 6 架构细节公布</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-11-02</guid>
+      <pubDate>Wed, 11 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>Zen 6 架构细节公布：IPC 较 Zen 5 提升约 27%，每个 CCX 从 8 核增至 12 核、L3 缓存 48MB，Zen 6c 每个 CCX 最高 32 核、128MB L3；SP8 平台明年初上市，带 3D V-Cache 的 Venice-X 预计 2027 年推出。来源：Wccftech / ServeTheHome。</p>]]></description>
+    </item>
+    <item>
+      <title>AMD 第 6 代 EPYC “Venice” 正式出货</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-11-01</guid>
+      <pubDate>Wed, 11 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>AMD 第 6 代 EPYC “Venice” 正式出货：AMD 11 月 10 日宣布 Zen 6 架构的 EPYC 9006 SP7 平台开始出货，最高 256 核 / 512 线程，最高频率 5.3GHz，支持 16 通道 DDR5/MRDIMM 与 PCIe 6.0，旗舰 EPYC 9996 售价 14,904 美元；首批独立测试同日出炉，双路 EPYC 9996 较上代提升最高约 93%。来源：AMD / ServeTheHome、Tom&#x27;s Hardware。</p>]]></description>
+    </item>
+    <item>
+      <title>先进封装支出接近 280 亿美元，收入首次超过传统封装</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-10-09</guid>
+      <pubDate>Tue, 10 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>先进封装支出接近 280 亿美元，收入首次超过传统封装：Yole Group 预计 2026 年先进封装资本支出接近 280 亿美元，收入今年首次超过传统封装；英伟达据称正出资扩建 CoWoS 产能，AMD 已在台湾半导体产业投资超 100 亿美元。来源：Reuters / Yole Group，11 月 6 日。</p>]]></description>
+    </item>
+    <item>
+      <title>CPU-Z 数据显示用户内存配置在降级</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-10-08</guid>
+      <pubDate>Tue, 10 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>CPU-Z 数据显示用户内存配置在降级：CPU-Z Validator 11 月 9 日统计显示，32GB 与 64GB 内存的 PC 占比同比下降，16GB 与 8GB 占比上升，反映高价下用户倾向于选择更小内存配置。来源：Guru3D / CPU-Z。</p>]]></description>
+    </item>
+    <item>
+      <title>传 Intel 下一代桌面 CPU Razor Lake-S 推迟至 2028 年</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-10-07</guid>
+      <pubDate>Tue, 10 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>传 Intel 下一代桌面 CPU Razor Lake-S 推迟至 2028 年：爆料人 Jaykihn 11 月 9 日称，Razor Lake-S 目标 2028 年而非 2027 年，可能保留 LGA 1954 插槽；未获官方证实。来源：Guru3D / Jaykihn。</p>]]></description>
+    </item>
+    <item>
+      <title>AMD 下一代 RDNA 5 架构进入 Linux 驱动</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-10-06</guid>
+      <pubDate>Tue, 10 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>AMD 下一代 RDNA 5 架构进入 Linux 驱动：AMD 11 月 9 日提交 8 个 Linux 内核补丁，加入 GFX13（预计为 RDNA 5）支持，涉及 GFX 13.0.1 与 13.0.4 两个目标，共约 12,600 行代码；Phoronix 预计将进入 Linux 7.5，但未确认。来源：VideoCardz / Phoronix。</p>]]></description>
+    </item>
+    <item>
+      <title>AMD 显卡驱动被曝持续写盘，修复预计 11 月底</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-10-05</guid>
+      <pubDate>Tue, 10 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>AMD 显卡驱动被曝持续写盘，修复预计 11 月底：多名用户报告 Adrenalin 26.6.4 至 26.10.2 的后台进程 atieclxx.exe 即使空闲也在持续写系统盘，约 0.3–1.5MB/s，个别达 5MB/s；AMD 已确认问题，修复预计随 Adrenalin 26.11.1 在 11 月底发布，26.10.2 未修复。来源：Guru3D / AMD 论坛。</p>]]></description>
+    </item>
+    <item>
+      <title>AMD 10 月美亚显卡销量数据更新</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-10-04</guid>
+      <pubDate>Tue, 10 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>AMD 10 月美亚显卡销量数据更新：TechEpiphany 11 月 9 日公布，AMD 10 月在美国亚马逊显卡销量占比 47.67%，首次超过英伟达的 46.11%，但英伟达仍以 56.56% 占收入首位；单品销量第一是 RX 9070 XT（3,300 张），其次是 RTX 5060 Ti（2,250 张）。来源：TechEpiphany / eTeknix。</p>]]></description>
+    </item>
+    <item>
+      <title>美国亚马逊 RTX 5090 最便宜约 7,000 美元</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-10-03</guid>
+      <pubDate>Tue, 10 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>美国亚马逊 RTX 5090 最便宜约 7,000 美元：OutletPicks 11 月 8–9 日追踪显示，美国亚马逊 RTX 5090 最低价 6,999.98 美元、中位价 8,799.99 美元，约为 1,999 美元建议价的 3.5 倍；与 TechSpot 10 月的 9,400 美元为不同统计口径与时间，不宜直接比较。来源：OutletPicks。</p>]]></description>
+    </item>
+    <item>
+      <title>DDR5 均价 30 天再涨 15%</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-10-02</guid>
+      <pubDate>Tue, 10 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>DDR5 均价 30 天再涨 15%：RamRadar 11 月 9 日追踪显示，桌面 DDR5 套条均价 19.72 美元/GB，10 月 10 日至 11 月 9 日涨 15%，90 天涨 33%；DDR4 均价 8.54 美元/GB，90 天涨 12.3%。来源：RamRadar。</p>]]></description>
+    </item>
+    <item>
+      <title>日本显卡一个月涨价 18–45%，全球 10 国调查 10 月涨 11%</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-10-01</guid>
+      <pubDate>Tue, 10 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>日本显卡一个月涨价 18–45%，全球 10 国调查 10 月涨 11%：日本调研机构 Aile 11 月 1 日统计，RTX 5090 当地售价一个月从约 939,800 日元涨至 1,238,430 日元（约 8,100 美元），涨幅 45%，主因是本地 AI 工具热潮引发大显存显卡抢购；TechSpot 11 月 2 日的 10 国调查显示，10 月显卡最低在售价环比涨 11%、较 8 月涨 35%，美国 RTX 5090 最低价达 9,400 美元。来源：GameGPU / TechSpot。</p>]]></description>
+    </item>
+    <item>
+      <title>树莓派之外的另一面</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-09-08</guid>
+      <pubDate>Mon, 09 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>树莓派之外的另一面：NAND 走势可能与 DRAM 分化：TrendForce 7 月 28 日分析称，2027 年 DRAM 供需缺口将进一步扩大，而 NAND 因消费端需求弱、制程迁移带来位元产出增加，供需比可能由负转正，2027 年下半年面临降价压力；但若仅 NAND 降价，对整机成本的缓解仍有限。来源：TrendForce。</p>]]></description>
+    </item>
+    <item>
+      <title>内存涨价幅度在收窄，但价格仍在涨</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-09-07</guid>
+      <pubDate>Mon, 09 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>内存涨价幅度在收窄，但价格仍在涨：TrendForce 经《工商时报》转述预计，Q4 DRAM 合约价环比涨约 20%，低于 Q2 的约 80% 和 Q3 的约 40%，原因是基数抬高、终端购买力减弱和长期协议限价逐步生效；这不是降价信号。来源：TrendForce / Commercial Times，10 月 21 日。</p>]]></description>
+    </item>
+    <item>
+      <title>SK 海力士称内存需求将超过供应至 2030 年</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-09-06</guid>
+      <pubDate>Mon, 09 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>SK 海力士称内存需求将超过供应至 2030 年：SK 海力士 10 月 28 日 Q3 财报称，DRAM 与 HBM 实际上已售罄至 2029 年，14 家大客户的长期协议已覆盖 2027–2028 年一半以上产能；三星同日称供应紧张将持续至 2028 年。两家 Q3 均创纪录，SK 海力士营收 104.6 万亿韩元、营业利润率 80%。来源：SK 海力士 / 三星 Q3 财报。</p>]]></description>
+    </item>
+    <item>
+      <title>AMD Zen 6 的 NPU 进入 Linux 7.5</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-09-05</guid>
+      <pubDate>Mon, 09 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>AMD Zen 6 的 NPU 进入 Linux 7.5：11 月 8 日 Linux 7.5 开发分支的 drm-misc-next 合并请求加入 AMDXDNA 驱动对 AIE4 硬件、NPU3 经典设备和 6.0 固件的支持，预计用于 Zen 6 客户端平台的下一代 Ryzen AI NPU，2027 年上市。来源：Phoronix / WiseVoter。</p>]]></description>
+    </item>
+    <item>
+      <title>华硕发布 XG Core 外置显卡</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-09-04</guid>
+      <pubDate>Mon, 09 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>华硕发布 XG Core 外置显卡：华硕 11 月 6 日发布 XG Core，内置低功耗版 Radeon RX 9060 XT、16GB GDDR6，75W 设计，USB4 最高 40Gbps，体积 144×117×39mm，面向轻薄本、迷你主机和掌机；价格与上市时间未公布。来源：华硕官网 / HotHardware。</p>]]></description>
+    </item>
+    <item>
+      <title>Intel 把部分 Panther Lake 产能转给 Xeon</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-09-03</guid>
+      <pubDate>Mon, 09 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>Intel 把部分 Panther Lake 产能转给 Xeon：Intel 10 月 29 日财报电话会确认，将削减原定用于 Panther Lake 的部分 18A 产能，转产 Intel 3 工艺的 Granite Rapids Xeon，俄勒冈新产能目标 2027 年下半年上线；PC 需求因内存涨价而低迷，服务器需求远超供应。来源：Intel 财报电话会 / TweakTown。</p>]]></description>
+    </item>
+    <item>
+      <title>RTX 5080 24GB 版 1 月上市存疑，取消说法未证实</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-09-02</guid>
+      <pubDate>Mon, 09 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>RTX 5080 24GB 版 1 月上市存疑，取消说法未证实：Benchlife 11 月 2–3 日称，截至 10 月底板卡厂商仍未收到设计套件，原定 10 月发放，1 月上市可能性很低；GameGPU 称英伟达已取消该卡，但仅为单一信源、未证实。英伟达未确认 24GB 版存在。RTX 5080 16GB 已于 10 月底从英伟达美国官网商城下架，在售最低价约 2199.99 美元，约为 999 美元建议价的 2.2 倍。来源：Benchlife / VideoCardz、Tom&#x27;s Hardware。</p>]]></description>
+    </item>
+    <item>
+      <title>树莓派 16GB 再涨价至 385 美元</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-09-01</guid>
+      <pubDate>Mon, 09 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>树莓派 16GB 再涨价至 385 美元：树莓派 11 月 2 日宣布，16GB 版 Raspberry Pi 5 涨 80 美元至 385 美元，约为 2025 年 1 月上市价 120 美元的三倍多；16GB Compute Module 5 涨 40 美元。CEO 称缺乏 16GB DRAM 替代供应，SK 海力士称需求将超过供应至 2030 年。来源：Raspberry Pi / Neowin、Gizmodo。</p>]]></description>
+    </item>
+    <item>
+      <title>AMD AFMF 3 被网友用 AI 提前解锁（非官方，未证实）</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-08-08</guid>
+      <pubDate>Sun, 08 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>AMD AFMF 3 被网友用 AI 提前解锁（非官方，未证实）：Reddit 用户借助 DeepSeek 4.1 Flash 找到注册表开关，在 Adrenalin 26.10.2 驱动上开启了尚未发布的 Fluid Motion Frames 3，支持 RDNA 3/4 显卡，增强模式可结合 FSR、XeSS 等；AMD 未宣布该功能，无独立性能实测。来源：Wccftech / VideoCardz，11 月 3 日。</p>]]></description>
+    </item>
+    <item>
+      <title>内存股 11 月 6 日反弹，但一周跌幅仍深</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-08-07</guid>
+      <pubDate>Sun, 08 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>内存股 11 月 6 日反弹，但一周跌幅仍深：美光 11 月 6 日收涨 5.1% 至 690 美元，闪迪涨 3.6% 至 835.06 美元，但美光一周仍跌 26%、闪迪跌 37%；费城半导体指数当日涨 4.21%，仅收复前一日 12.25% 跌幅的约三分之一。来源：Finnhub / aiagentupdate。</p>]]></description>
+    </item>
+    <item>
+      <title>台积电 3D DRAM 传闻出现后续回应</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-08-06</guid>
+      <pubDate>Sun, 08 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>台积电 3D DRAM 传闻出现后续回应：The Information 11 月 6 日报道台积电应英伟达要求筹划 3D DRAM 生产；Tom&#x27;s Hardware 11 月 7 日报道，台积电发言人重申“专注核心业务、专心做逻辑代工”，该表述未点名 3D DRAM 或英伟达，Tom&#x27;s Hardware 将其解读为实质否认，两方说法目前冲突，量产也在 2030 年前后。来源：The Information / Tom&#x27;s Hardware。</p>]]></description>
+    </item>
+    <item>
+      <title>存储厂商利润率约 80%，Q4 合约价还要涨</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-08-05</guid>
+      <pubDate>Sun, 08 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>存储厂商利润率约 80%，Q4 合约价还要涨：美光、闪迪、SK 海力士最新季度营业利润率均在约 80% 左右；TrendForce 预计 Q4 DRAM 合约价再涨 10–15%、NAND 涨 15–20%，DRAM 供应 2027 年仍将紧张。来源：MLQ / TrendForce，11 月 7 日。</p>]]></description>
+    </item>
+    <item>
+      <title>微软路线图泄露下一代 CPU 命名</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-08-04</guid>
+      <pubDate>Sun, 08 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>微软路线图泄露下一代 CPU 命名：微软 Windows AI 路线图幻灯片（11 月 3 日泄露）出现 AMD Ryzen AI 500（Zen 6）、Intel Core Ultra Series 4（Nova Lake）以及 Intel Crescent Island AI 加速器；AMD、Intel 均未正式公布下一代命名。来源：OC3D / TechSpot。</p>]]></description>
+    </item>
+    <item>
+      <title>Intel 展望疲软，预警 PC 低迷延续至 2027 年上半年</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-08-03</guid>
+      <pubDate>Sun, 08 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>Intel 展望疲软，预警 PC 低迷延续至 2027 年上半年：Intel 10 月 29 日财报电话会称，2026 年全行业 PC 出货量预计下滑约 12%、下半年降超 20%，2027 年再降约 10%；Q4 营收指引 150–160 亿美元，低于分析师预期的约 170 亿美元，毛利率预计收窄至 38%。来源：Intel 财报电话会。</p>]]></description>
+    </item>
+    <item>
+      <title>传 AMD 11 月再次上调 Radeon 套件价（未证实）</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-08-02</guid>
+      <pubDate>Sun, 08 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>传 AMD 11 月再次上调 Radeon 套件价（未证实）：ChannelGate 爆料、TweakTown 10 月 30 日转述，AMD 准备 11 月再次上调向板卡厂商供应的 GPU+GDDR6 套件价格，原因是 GDDR6 三季度涨价 8–10%；AMD 未确认，涨幅与涉及型号未知。来源：ChannelGate / TweakTown。</p>]]></description>
+    </item>
+    <item>
+      <title>RTX 5070 Ti 美国最低价涨至 1339.99 美元，接近建议价两倍</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-08-01</guid>
+      <pubDate>Sun, 08 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>RTX 5070 Ti 美国最低价涨至 1339.99 美元，接近建议价两倍：Notebookcheck 11 月 6 日称，美国在售最低价从 10 月 29 日的 1179.99 美元涨至 1339.99 美元，一周涨 160 美元（约 13.6%），约为 749 美元建议价的 1.8 倍，部分型号已到 1500 美元；英伟达未宣布停产。来源：Notebookcheck / VideoCardz。</p>]]></description>
+    </item>
+    <item>
+      <title>英伟达发布 GeForce 621.14 驱动，Thermal Grizzly 推出 PhaseSheet PTM Pro</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-07-11</guid>
+      <pubDate>Sat, 07 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>英伟达发布 GeForce 621.14 驱动，Thermal Grizzly 推出 PhaseSheet PTM Pro：GeForce 621.14 已于 11 月 5 日发布；PhaseSheet PTM Pro 是升级版相变导热垫，45°C 以上液化，官方测试温差 5.83°C，40×40mm 售价 23.28 美元，现已开售。来源：NVIDIA / KitGuru。</p>]]></description>
+    </item>
+    <item>
+      <title>华硕发布 ROG XG Station 3 雷电 5 显卡坞</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-07-10</guid>
+      <pubDate>Sat, 07 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>华硕发布 ROG XG Station 3 雷电 5 显卡坞：11 月 4–5 日正式发布，开放式结构，雷电 5 双向最高 80Gbps、视频场景最高 120Gbps，支持 RTX 50、RTX PRO 6000、RX 9000、Intel Arc 显卡，上行口可 140W 给笔记本充电；不附电源，需自备 750W 以上 SFX 电源，价格与上市时间未公布。来源：华硕 / IT之家。</p>]]></description>
+    </item>
+    <item>
+      <title>亚马逊美国 10 月 AMD 显卡销量首次超过英伟达</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-07-09</guid>
+      <pubDate>Sat, 07 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>亚马逊美国 10 月 AMD 显卡销量首次超过英伟达：据 TechEpiphany 11 月 3–4 日统计，AMD Radeon 在亚马逊美国的显卡销量首次超过英伟达 GeForce，总销量下滑但营收因涨价而上升；RX 9070 XT 约 920 美元，对位 RTX 5070 Ti 多数在 1700 美元以上。来源：TechEpiphany / Notebookcheck。</p>]]></description>
+    </item>
+    <item>
+      <title>RTX 5090 美国最低价仍在高位，RTX 5080 同样大涨</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-07-08</guid>
+      <pubDate>Sat, 07 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>RTX 5090 美国最低价仍在高位，RTX 5080 同样大涨：Tom&#x27;s Hardware 追踪显示 11 月初美国 RTX 5090 最低价为 6919 美元，远高于 1999 美元官方价；TechSpot 10 月调查的在库最低价为 9400 美元，RTX 5080 在库最低价 2200 美元（官方价 999 美元），Newegg 当时无店家直售的 5080 现货。来源：Tom&#x27;s Hardware / TechSpot。</p>]]></description>
+    </item>
+    <item>
+      <title>AMD Q3 营收 133.8 亿美元创纪录，Q4 指引有望史上首次超过英特尔</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-07-07</guid>
+      <pubDate>Sat, 07 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>AMD Q3 营收 133.8 亿美元创纪录，Q4 指引有望史上首次超过英特尔：AMD 11 月 3 日发布 Q3 财报，总营收同比增 45%，数据中心业务 85 亿美元、同比增 97%；Q4 营收指引约 170 亿美元，高于英特尔的 150–160 亿美元，若兑现将是 AMD 单季营收首次超过英特尔。来源：AMD 财报 / 腾讯新闻。</p>]]></description>
+    </item>
+    <item>
+      <title>TeamGroup 预警最严重缺货在 2026 年 Q4 至 2027 年 Q2</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-07-06</guid>
+      <pubDate>Sat, 07 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>TeamGroup 预警最严重缺货在 2026 年 Q4 至 2027 年 Q2：CEO 陈振华在 11 月 2 日法说会上称，DRAM 与 NAND 最紧张的阶段尚未到来，供需最早 2028 年下半年才可能平衡；16Gb DDR5 合约价已从 2025 年 10 月的 8.7 美元涨至 2026 年 9 月的约 48 美元。来源：TeamGroup 法说会 / Notebookcheck。</p>]]></description>
+    </item>
+    <item>
+      <title>中国云厂商订购约 600 万张 RTX PRO 5500、总值约 700 亿美元，但未来 4 个月预计仅交付约 1%</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-07-05</guid>
+      <pubDate>Sat, 07 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>中国云厂商订购约 600 万张 RTX PRO 5500、总值约 700 亿美元，但未来 4 个月预计仅交付约 1%：彭博 11 月 4 日引述知情人士称，阿里、腾讯、字节等合计订购约 600 万张、单价超 1.1 万美元，未来 4 个月仅能收到数万张；英伟达 2027 年全球产量预计不超 300 万张。来源：彭博 / 联合新闻网。</p>]]></description>
+    </item>
+    <item>
+      <title>台积电考虑生产 3D DRAM（传闻，未证实）</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-07-04</guid>
+      <pubDate>Sat, 07 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>台积电考虑生产 3D DRAM（传闻，未证实）：The Information 11 月 6 日报道，台积电应英伟达要求，正考虑生产 3D DRAM，可能新建工厂或收购改造现有工厂；台积电官方回应是不评论市场传闻、专注代工主业，无时间表和投资额。来源：The Information / Asia Daily。</p>]]></description>
+    </item>
+    <item>
+      <title>英伟达 NVHBM 传闻</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-07-03</guid>
+      <pubDate>Sat, 07 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>英伟达 NVHBM 传闻：三星计划用台积电 3nm 做基底芯片（传闻，未证实）：据 10 月 18 日《首尔经济日报》报道，英伟达要求三星、SK 海力士、美光为其定制 HBM（NVHBM）的基底芯片统一用台积电 3nm 工艺，三星已接受；英伟达称 NVHBM 较 HBM4E 带宽最高提升 30%、功耗降低 15%。来源：Seoul Economic Daily / Reuters。</p>]]></description>
+    </item>
+    <item>
+      <title>Q3 全球 DRAM 营收同比增 369%、接近 2000 亿美元创历史新高</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-07-02</guid>
+      <pubDate>Sat, 07 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>Q3 全球 DRAM 营收同比增 369%、接近 2000 亿美元创历史新高：Counterpoint 11 月 5 日报告称，出货量仅增约 4%，增长几乎全靠涨价，均价升至每 Gb 1.9 美元；三星份额 38% 第一，SK 海力士环比营收增超 40%、份额回升至 29%。来源：Counterpoint Research。</p>]]></description>
+    </item>
+    <item>
+      <title>韩股 11 月 6 日暴跌超 8% 触发熔断，三星、SK 海力士重挫</title>
+      <link>https://lingran7031.github.io/daily-briefings/</link>
+      <guid isPermaLink="false">hardware-2026-11-07-01</guid>
+      <pubDate>Sat, 07 Nov 2026 08:30:00 +0800</pubDate>
+      <category>电脑硬件新闻</category>
+      <description><![CDATA[<p>韩股 11 月 6 日暴跌超 8% 触发熔断，三星、SK 海力士重挫：KOSPI 盘中跌破 5000 点，9 时 3 分左右启动第一阶段熔断、停牌 20 分钟，三星盘中一度跌 9.98%、SK 海力士跌 11.71%，收盘仍跌 6.35% 和 10.44%。来源：中央社、经济日报。</p>]]></description>
+    </item>
+  </channel>
+</rss>
